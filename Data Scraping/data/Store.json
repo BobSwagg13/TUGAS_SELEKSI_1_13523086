@@ -1,0 +1,57 @@
+[
+    {
+        "store_id": 1,
+        "name": "Foot Locker",
+        "main_link": "https://www.footlocker.com"
+    },
+    {
+        "store_id": 2,
+        "name": "Finishline",
+        "main_link": "https://www.finishline.com"
+    },
+    {
+        "store_id": 3,
+        "name": "Nike",
+        "main_link": "https://www.kqzyfj.com"
+    },
+    {
+        "store_id": 4,
+        "name": "Way of Wade",
+        "main_link": "https://www.anrdoezrs.net"
+    },
+    {
+        "store_id": 5,
+        "name": "KicksCrewfrom\u00a0",
+        "main_link": "https://www.kickscrew.com"
+    },
+    {
+        "store_id": 6,
+        "name": "DICK's",
+        "main_link": "https://www.anrdoezrs.net"
+    },
+    {
+        "store_id": 7,
+        "name": "Champs Sports",
+        "main_link": "https://www.champssports.com"
+    },
+    {
+        "store_id": 8,
+        "name": "Adidas",
+        "main_link": "https://www.adidas.com"
+    },
+    {
+        "store_id": 9,
+        "name": "Under Armour",
+        "main_link": "https://www.awin1.com"
+    },
+    {
+        "store_id": 10,
+        "name": "GOATfrom\u00a0",
+        "main_link": "https://www.goat.com"
+    },
+    {
+        "store_id": 11,
+        "name": "New Balance",
+        "main_link": "https://www.newbalance.com"
+    }
+]

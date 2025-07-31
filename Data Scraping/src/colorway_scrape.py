@@ -32,9 +32,6 @@ for i, base_link in enumerate(links_list):
                 colorway_div = temp_div.find_next_sibling('div') if temp_div else None
                 if colorway_div:
                     colorway = colorway_div.get_text(strip=True)
-
-                    # Clean up colorway text to enable csv usage for SQL insertion
-                    colorway = colorway.replace('\u200b', '')
                     result.append({
                         "colorway_id": shoe_count,
                         "shoe_id": i + 1,
@@ -45,7 +42,7 @@ for i, base_link in enumerate(links_list):
             print("No colorways found.")
         print(result)
         json_output = json.dumps(result, indent=4)
-        with open('Data Scraping/data/shoe_colorway.json', 'w') as f:
+        with open('Data Scraping/data/Colorway.json', 'w') as f:
             f.write(json_output)
     else:
         print(f"Failed to retrieve page for link {i+1}. Status code: {response.status_code}")

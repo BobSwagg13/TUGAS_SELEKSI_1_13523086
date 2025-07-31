@@ -1,150 +1,3882 @@
 [
     {
-        "critic_id": 37,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=37"
-    },
-    {
-        "critic_id": 29,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=29"
-    },
-    {
-        "critic_id": 44,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=44"
-    },
-    {
-        "critic_id": 46,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=46"
-    },
-    {
-        "critic_id": 24,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=24"
-    },
-    {
-        "critic_id": 36,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=36"
-    },
-    {
-        "critic_id": 48,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=48"
-    },
-    {
-        "critic_id": 47,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=47"
-    },
-    {
-        "critic_id": 43,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=43"
-    },
-    {
-        "critic_id": 32,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=32"
-    },
-    {
-        "critic_id": 45,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=45"
-    },
-    {
-        "critic_id": 39,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=39"
-    },
-    {
-        "critic_id": 7,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=7"
-    },
-    {
         "critic_id": 1,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=1"
-    },
-    {
-        "critic_id": 19,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=19"
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=37",
+        "is_expert": 1
     },
     {
         "critic_id": 2,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=2"
-    },
-    {
-        "critic_id": 41,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=41"
-    },
-    {
-        "critic_id": 42,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=42"
-    },
-    {
-        "critic_id": 33,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=33"
-    },
-    {
-        "critic_id": 11,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=11"
-    },
-    {
-        "critic_id": 25,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=25"
-    },
-    {
-        "critic_id": 6,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=6"
-    },
-    {
-        "critic_id": 40,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=40"
-    },
-    {
-        "critic_id": 34,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=34"
-    },
-    {
-        "critic_id": 30,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=30"
-    },
-    {
-        "critic_id": 27,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=27"
-    },
-    {
-        "critic_id": 38,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=38"
-    },
-    {
-        "critic_id": 35,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=35"
-    },
-    {
-        "critic_id": 9,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=9"
-    },
-    {
-        "critic_id": 18,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=18"
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=29",
+        "is_expert": 1
     },
     {
         "critic_id": 3,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=3"
-    },
-    {
-        "critic_id": 15,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=15"
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=44",
+        "is_expert": 1
     },
     {
         "critic_id": 4,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=4"
-    },
-    {
-        "critic_id": 10,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=10"
-    },
-    {
-        "critic_id": 20,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=20"
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6972",
+        "is_expert": 0
     },
     {
         "critic_id": 5,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=5"
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=46",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 6,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=24",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 7,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=36",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 8,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=48",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 9,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=47",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 10,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=43",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 11,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3762",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 12,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6737",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 13,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5494",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 14,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2385",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 15,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5427",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 16,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6956",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 17,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6421",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 18,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=32",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 19,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=45",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 20,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6797",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 21,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4141",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 22,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=39",
+        "is_expert": 1
     },
     {
         "critic_id": 23,
-        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=23"
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6809",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 24,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4232",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 25,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=723",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 26,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=7030",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 27,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5091",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 28,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1651",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 29,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6939",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 30,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6711",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 31,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=7",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 32,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=1",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 33,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6721",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 34,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6719",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 35,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5392",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 36,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6772",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 37,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=7028",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 38,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6674",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 39,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=7002",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 40,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6688",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 41,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6694",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 42,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5706",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 43,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6793",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 44,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=19",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 45,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6605",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 46,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6763",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 47,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6799",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 48,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5791",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 49,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5673",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 50,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5717",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 51,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3604",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 52,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5470",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 53,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6771",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 54,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6911",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 55,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6718",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 56,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6926",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 57,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6701",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 58,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6978",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 59,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6480",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 60,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6759",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 61,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6783",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 62,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5943",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 63,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2301",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 64,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5345",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 65,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6715",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 66,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4892",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 67,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6555",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 68,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6578",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 69,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=869",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 70,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=231",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 71,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6833",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 72,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6612",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 73,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=45",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 74,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1097",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 75,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6891",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 76,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5447",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 77,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4614",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 78,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3228",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 79,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=69",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 80,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6558",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 81,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3935",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 82,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2332",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 83,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6501",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 84,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6513",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 85,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=2",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 86,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6575",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 87,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5357",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 88,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6539",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 89,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6769",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 90,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6936",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 91,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6611",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 92,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6863",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 93,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4702",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 94,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6410",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 95,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5850",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 96,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5488",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 97,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6531",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 98,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6837",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 99,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=41",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 100,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1718",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 101,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=409",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 102,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6567",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 103,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=42",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 104,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6328",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 105,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6574",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 106,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6787",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 107,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6442",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 108,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6592",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 109,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5675",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 110,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6387",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 111,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=33",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 112,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4499",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 113,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1528",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 114,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5941",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 115,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5698",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 116,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6886",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 117,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6054",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 118,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6591",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 119,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6764",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 120,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5974",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 121,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5647",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 122,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6968",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 123,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6170",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 124,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6296",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 125,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6876",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 126,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6632",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 127,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2622",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 128,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6634",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 129,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4551",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 130,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6210",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 131,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4226",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 132,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6185",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 133,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4893",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 134,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6405",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 135,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1413",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 136,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5760",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 137,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6805",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 138,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5949",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 139,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6207",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 140,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6625",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 141,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4388",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 142,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6447",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 143,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6339",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 144,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5010",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 145,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5574",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 146,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6292",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 147,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5283",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 148,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6804",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 149,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5813",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 150,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6258",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 151,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5466",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 152,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5640",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 153,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1911",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 154,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4561",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 155,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6148",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 156,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6144",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 157,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6473",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 158,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5654",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 159,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6098",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 160,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5241",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 161,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5591",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 162,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6080",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 163,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6957",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 164,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6637",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 165,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4939",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 166,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5158",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 167,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2368",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 168,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5775",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 169,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4666",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 170,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5876",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 171,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5024",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 172,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5925",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 173,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5322",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 174,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6396",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 175,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6494",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 176,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=11",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 177,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6590",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 178,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6621",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 179,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5758",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 180,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6215",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 181,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5967",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 182,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6856",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 183,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6485",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 184,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4518",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 185,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4807",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 186,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3386",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 187,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6218",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 188,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6660",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 189,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2119",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 190,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4647",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 191,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5303",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 192,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6018",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 193,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6290",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 194,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4135",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 195,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5620",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 196,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=541",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 197,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6013",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 198,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=253",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 199,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=952",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 200,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5812",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 201,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4941",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 202,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5892",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 203,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3117",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 204,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5668",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 205,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5991",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 206,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5472",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 207,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5712",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 208,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4838",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 209,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4968",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 210,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6372",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 211,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5390",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 212,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3553",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 213,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6607",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 214,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3550",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 215,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4096",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 216,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2803",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 217,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2076",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 218,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5753",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 219,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5377",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 220,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6614",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 221,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=25",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 222,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2093",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 223,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6565",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 224,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2276",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 225,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6045",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 226,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4383",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 227,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4512",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 228,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2288",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 229,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5203",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 230,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5170",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 231,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4753",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 232,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4585",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 233,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5604",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 234,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4448",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 235,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2668",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 236,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5485",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 237,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4530",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 238,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4149",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 239,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4191",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 240,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4203",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 241,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2572",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 242,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5798",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 243,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6057",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 244,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5971",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 245,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5246",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 246,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4307",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 247,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2849",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 248,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3929",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 249,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5840",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 250,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2104",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 251,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4754",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 252,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4781",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 253,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3827",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 254,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=341",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 255,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6039",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 256,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4349",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 257,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5770",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 258,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1480",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 259,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4051",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 260,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4861",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 261,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5492",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 262,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4523",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 263,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4433",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 264,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3582",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 265,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4454",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 266,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=33",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 267,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3733",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 268,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1821",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 269,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4355",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 270,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4367",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 271,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3711",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 272,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5572",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 273,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3250",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 274,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3904",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 275,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5000",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 276,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5716",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 277,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5835",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 278,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5881",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 279,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1952",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 280,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6047",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 281,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=205",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 282,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4456",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 283,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3037",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 284,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3663",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 285,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5921",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 286,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5975",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 287,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4436",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 288,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3308",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 289,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4238",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 290,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5259",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 291,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3807",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 292,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3801",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 293,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=6",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 294,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5092",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 295,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4909",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 296,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2014",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 297,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3819",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 298,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2154",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 299,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3732",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 300,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2946",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 301,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2117",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 302,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3567",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 303,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3606",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 304,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2379",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 305,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4696",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 306,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5529",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 307,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=40",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 308,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2239",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 309,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=105",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 310,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5195",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 311,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=802",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 312,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4187",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 313,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2985",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 314,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3346",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 315,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5031",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 316,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2598",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 317,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=234",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 318,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2196",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 319,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4991",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 320,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1057",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 321,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=34",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 322,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4871",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 323,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2265",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 324,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=638",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 325,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3376",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 326,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2870",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 327,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=452",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 328,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2203",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 329,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=756",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 330,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3244",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 331,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=244",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 332,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2664",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 333,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5408",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 334,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6329",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 335,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6552",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 336,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2164",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 337,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4918",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 338,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3011",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 339,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3862",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 340,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5119",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 341,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2156",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 342,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3769",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 343,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6572",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 344,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2604",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 345,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2783",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 346,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2808",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 347,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3784",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 348,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=30",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 349,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3920",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 350,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3623",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 351,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3592",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 352,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6922",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 353,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3574",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 354,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4862",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 355,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2857",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 356,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5996",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 357,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5545",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 358,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=243",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 359,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1925",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 360,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4752",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 361,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=308",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 362,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2045",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 363,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2246",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 364,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2601",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 365,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=27",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 366,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1608",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 367,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1705",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 368,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2161",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 369,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2123",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 370,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3698",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 371,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3787",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 372,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1517",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 373,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1715",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 374,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1720",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 375,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1796",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 376,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2851",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 377,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2118",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 378,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2578",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 379,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2917",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 380,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1442",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 381,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4511",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 382,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=38",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 383,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4657",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 384,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2896",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 385,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2375",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 386,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1209",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 387,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1544",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 388,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=104",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 389,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3872",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 390,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2928",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 391,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1039",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 392,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=273",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 393,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2958",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 394,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=35",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 395,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5907",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 396,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=89",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 397,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1722",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 398,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=506",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 399,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1414",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 400,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=898",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 401,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3435",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 402,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=40",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 403,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2322",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 404,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=348",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 405,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=942",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 406,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=114",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 407,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=299",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 408,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1457",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 409,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4822",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 410,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2868",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 411,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=651",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 412,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=216",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 413,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2695",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 414,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2439",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 415,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2638",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 416,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1311",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 417,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=669",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 418,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2133",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 419,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=813",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 420,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4218",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 421,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2863",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 422,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3869",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 423,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3035",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 424,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4413",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 425,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3737",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 426,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3660",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 427,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3777",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 428,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=906",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 429,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=292",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 430,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2100",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 431,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3849",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 432,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2068",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 433,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3914",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 434,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1752",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 435,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=971",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 436,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=964",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 437,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3172",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 438,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3828",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 439,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3756",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 440,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4948",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 441,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1009",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 442,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=235",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 443,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4397",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 444,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=520",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 445,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4049",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 446,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=844",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 447,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=322",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 448,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3130",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 449,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2191",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 450,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3104",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 451,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=49",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 452,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5871",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 453,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2884",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 454,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5218",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 455,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=580",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 456,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=311",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 457,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2378",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 458,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3370",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 459,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3836",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 460,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2124",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 461,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=129",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 462,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1288",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 463,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3651",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 464,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2571",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 465,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=385",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 466,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2166",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 467,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2635",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 468,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5555",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 469,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6474",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 470,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=36",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 471,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1267",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 472,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5568",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 473,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3957",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 474,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3066",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 475,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=357",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 476,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4261",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 477,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4083",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 478,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=687",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 479,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=209",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 480,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=163",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 481,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2500",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 482,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5727",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 483,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=83",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 484,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2106",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 485,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1345",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 486,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=9",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 487,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=487",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 488,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2642",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 489,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5743",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 490,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2281",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 491,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1865",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 492,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5286",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 493,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=90",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 494,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=53",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 495,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=295",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 496,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=473",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 497,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=346",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 498,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1119",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 499,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=984",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 500,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=653",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 501,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=324",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 502,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3083",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 503,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=35",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 504,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=254",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 505,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2814",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 506,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4006",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 507,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1156",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 508,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=481",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 509,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1032",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 510,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2976",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 511,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=50",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 512,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=100",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 513,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1371",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 514,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5020",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 515,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=370",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 516,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=18",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 517,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2083",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 518,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=218",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 519,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1354",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 520,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2462",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 521,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1879",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 522,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=3",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 523,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2183",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 524,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=405",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 525,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=815",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 526,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5681",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 527,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2342",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 528,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5710",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 529,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=824",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 530,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=39",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 531,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=422",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 532,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2098",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 533,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1241",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 534,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2399",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 535,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2737",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 536,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3163",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 537,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2499",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 538,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=98",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 539,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1662",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 540,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=818",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 541,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=941",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 542,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2534",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 543,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4065",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 544,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4818",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 545,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=107",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 546,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=72",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 547,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=171",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 548,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=367",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 549,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=652",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 550,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=319",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 551,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=37",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 552,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=78",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 553,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5679",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 554,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=807",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 555,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=189",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 556,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=58",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 557,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3668",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 558,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=645",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 559,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=233",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 560,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5566",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 561,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=995",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 562,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1793",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 563,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3699",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 564,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=111",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 565,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3229",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 566,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1920",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 567,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=839",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 568,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6596",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 569,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=479",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 570,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2956",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 571,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=312",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 572,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1815",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 573,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=264",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 574,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1713",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 575,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=350",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 576,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=573",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 577,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1781",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 578,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4028",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 579,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=874",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 580,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=79",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 581,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1583",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 582,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1391",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 583,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4129",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 584,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=795",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 585,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=337",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 586,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=23",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 587,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1672",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 588,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=403",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 589,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=806",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 590,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4472",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 591,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6503",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 592,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1897",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 593,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=162",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 594,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=180",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 595,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1601",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 596,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3534",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 597,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3042",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 598,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1356",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 599,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2648",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 600,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2199",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 601,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3931",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 602,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5701",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 603,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=917",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 604,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6064",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 605,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1661",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 606,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3171",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 607,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=27",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 608,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4320",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 609,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6385",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 610,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=523",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 611,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4616",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 612,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1463",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 613,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=441",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 614,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=920",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 615,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=15",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 616,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=830",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 617,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=610",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 618,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=502",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 619,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1569",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 620,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3654",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 621,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2488",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 622,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4091",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 623,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1358",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 624,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1581",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 625,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5410",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 626,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=146",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 627,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2081",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 628,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4188",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 629,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3000",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 630,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=169",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 631,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1068",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 632,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5077",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 633,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1178",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 634,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1856",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 635,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2185",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 636,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5365",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 637,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6014",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 638,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1878",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 639,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=120",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 640,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=130",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 641,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1711",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 642,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=168",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 643,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=132",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 644,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=937",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 645,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3127",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 646,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4959",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 647,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2584",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 648,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=34",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 649,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=4",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 650,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=832",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 651,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=185",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 652,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1020",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 653,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2329",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 654,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=152",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 655,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3018",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 656,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3377",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 657,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3697",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 658,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1497",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 659,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2338",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 660,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2217",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 661,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=470",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 662,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=212",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 663,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=278",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 664,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=7029",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 665,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=332",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 666,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4626",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 667,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=464",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 668,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3288",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 669,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3025",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 670,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=402",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 671,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=137",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 672,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=190",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 673,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1065",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 674,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2619",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 675,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3092",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 676,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5493",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 677,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3526",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 678,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2102",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 679,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3217",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 680,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=131",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 681,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=145",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 682,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2216",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 683,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2621",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 684,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2477",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 685,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=974",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 686,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=681",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 687,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4175",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 688,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=776",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 689,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=73",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 690,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=727",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 691,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=141",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 692,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5990",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 693,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=93",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 694,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=86",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 695,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=408",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 696,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1263",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 697,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3095",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 698,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5705",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 699,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=51",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 700,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=263",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 701,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=10",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 702,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=593",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 703,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=835",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 704,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=998",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 705,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3629",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 706,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1042",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 707,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1231",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 708,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=784",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 709,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1166",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 710,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=204",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 711,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4043",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 712,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=979",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 713,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4714",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 714,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1099",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 715,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=361",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 716,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1125",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 717,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=96",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 718,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3533",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 719,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4202",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 720,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2411",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 721,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4545",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 722,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=166",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 723,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2285",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 724,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3425",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 725,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6444",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 726,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=20",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 727,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2775",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 728,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4967",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 729,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1342",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 730,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=966",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 731,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=569",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 732,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5627",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 733,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2714",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 734,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2703",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 735,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2403",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 736,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=284",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 737,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=428",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 738,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=583",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 739,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=20",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 740,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1295",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 741,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3313",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 742,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3365",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 743,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1329",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 744,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4256",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 745,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2875",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 746,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1486",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 747,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=238",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 748,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2645",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 749,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=221",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 750,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=705",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 751,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=241",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 752,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=840",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 753,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2543",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 754,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6335",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 755,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=5",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 756,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2000",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 757,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2793",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 758,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4357",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 759,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2381",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 760,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3009",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 761,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4562",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 762,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=5573",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 763,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1409",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 764,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3624",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 765,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1069",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 766,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=6920",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 767,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=4326",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 768,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=3438",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 769,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=203",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 770,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=99",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 771,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2608",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 772,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/critic?id=23",
+        "is_expert": 1
+    },
+    {
+        "critic_id": 773,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=965",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 774,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=1685",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 775,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=2346",
+        "is_expert": 0
+    },
+    {
+        "critic_id": 776,
+        "link": "https://www.thehoopsgeek.com/shoe-reviews/user?id=306",
+        "is_expert": 0
     }
 ]

@@ -1,56 +1,93 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import json
-import re
 import time
+from selenium.common.exceptions import WebDriverException
 
 file_name = 'Data Scraping/data/critics_link_data.json'
 
-# Setup Chrome driver (make sure chromedriver is in PATH or specify path in Service())
+
 driver = webdriver.Chrome()
 
 with open(file_name, 'r') as f:
     data = json.load(f)
 
-
 result = []
+expert = []
+user = []
+id_counter = 1
+
+
+MAX_RETRIES = 3
+RETRY_DELAY_SECONDS = 5 
 
 for url_obj in data:
     url = url_obj["link"]
-    driver.get(url)
-    time.sleep(3)  
+    
+    
+    for attempt in range(MAX_RETRIES):
+        try:
+            print(f"Attempting to connect to {url} (Attempt {attempt + 1}/{MAX_RETRIES})...")
+            driver.get(url)
+            print("Connection successful.")
+            break
+        except WebDriverException as e:
+            print(f"Connection failed: {e}")
+            if attempt < MAX_RETRIES - 1:
+                print(f"Waiting {RETRY_DELAY_SECONDS} seconds before retrying...")
+                time.sleep(RETRY_DELAY_SECONDS)
+            else:
+                print(f"All {MAX_RETRIES} attempts failed for {url}. Skipping this URL.")
+                soup = None
+    else:
 
+        continue 
+
+    
     soup = BeautifulSoup(driver.page_source, 'html.parser')
-
-    # Get critic ID
-    id = url_obj["critic_id"] if "critic_id" in url_obj else "N/A"
 
     # Get name
     h1 = soup.find('h1', class_='thg_h1_size')
     name = h1.text.strip() if h1 else "Name not found"
 
-    # Get YouTube link
-    yt_link = None
-    yt_div = h1.find_next_sibling('div') if h1 else None
-    if yt_div:
-        yt_a = yt_div.find('a')
-        yt_link = yt_a['href'] if yt_a else "YouTube link not found"
-    else:
-        yt_link = "YouTube div not found"
-
     result.append({
-        "id": id,
+        "critic_id": id_counter,
         "name": name,
-        "youtube_link": yt_link,
     })
+
+    # Get Profile link
+    if url_obj["is_expert"] == 1:
+        yt_link = None
+        yt_div = h1.find_next_sibling('div') if h1 else None
+        if yt_div:
+            yt_a = yt_div.find('a')
+            yt_link = yt_a['href'] if yt_a else "Profile link not found"
+        else:
+            yt_link = "Profile div not found"
+
+        expert.append({
+            "critic_id": id_counter,
+            "profile_link": yt_link,
+        })
+    else:
+        user.append({
+            "critic_id": id_counter,
+        })
+        
+    id_counter += 1
+    time.sleep(1)
 
 driver.quit()
 
+
 # Save results to JSON file
-output_file = 'Data Scraping/data/critic_data.json'
-with open(output_file, 'w') as f:
+with open('Data Scraping/data/Critic.json', 'w') as f:
     json.dump(result, f, indent=4)
+
+with open('Data Scraping/data/Expert.json', 'w') as f:
+    json.dump(expert, f, indent=4)
+
+with open('Data Scraping/data/User.json', 'w') as f:
+    json.dump(user, f, indent=4)
 
 

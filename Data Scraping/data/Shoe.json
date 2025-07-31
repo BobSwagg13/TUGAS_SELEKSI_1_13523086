@@ -1,0 +1,3512 @@
+[
+    {
+        "shoe_id": 1,
+        "name": "Reebok Engine A",
+        "brand": "Reebok",
+        "player": null,
+        "release_date": "2025-05-01",
+        "description": "The Reebok Engine A is best for bigger players looking for solid impact protection.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 2,
+        "name": "Jordan Luka 4",
+        "brand": "Jordan",
+        "player": "Luka Doncic",
+        "release_date": "2025-04-01",
+        "description": "This shoe is best for bigger, shifty guards.",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 3,
+        "name": "ANTA Kai 2",
+        "brand": "ANTA",
+        "player": "Kyrie Irving",
+        "release_date": "2025-03-01",
+        "description": "The KAI 2 is best for shifty guards who want a fast, responsive shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 4,
+        "name": "Li-Ning Wade 808 5 Ultra",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2025-03-01",
+        "description": "This shoe is best for smaller, quicker, more explosive players.",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 5,
+        "name": "Jordan Zion 4",
+        "brand": "Jordan",
+        "player": "Zion Williamson",
+        "release_date": "2025-02-01",
+        "description": "The Zion 4 is best for players with narrow feet who want extra support and comfortable cushioning.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 6,
+        "name": "Nike KD 18",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2025-02-01",
+        "description": "This shoe is best for players who enjoyed the KD 17 and want better support and lockdown.",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 7,
+        "name": "Nike LeBron NXXT Genisus",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2025-02-01",
+        "description": "This shoe is best for players who like supportive uppers.",
+        "shoe_type": "High Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 8,
+        "name": "Nike GT Cut 3 Turbo",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2025-02-01",
+        "description": "This shoe is best for players who want a more stable, improved version of the previous model.",
+        "shoe_type": "Low Top",
+        "retail_price": 209.99
+    },
+    {
+        "shoe_id": 9,
+        "name": "361 Joker 1",
+        "brand": "361",
+        "player": null,
+        "release_date": "2025-01-01",
+        "description": "Players with a variety of play styles will enjoy this shoe thanks to the versatility of its features.",
+        "shoe_type": "High Top",
+        "retail_price": 129.0
+    },
+    {
+        "shoe_id": 10,
+        "name": "Adidas Harden Volume 9",
+        "brand": "Adidas",
+        "player": "James Harden",
+        "release_date": "2025-01-01",
+        "description": "This shoe is best for all positions prioritizing a secure upper and springy cushioning.",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 11,
+        "name": "Puma Scoot Zero 2",
+        "brand": "Puma",
+        "player": "Scoot Henderson",
+        "release_date": "2025-01-01",
+        "description": "This shoe is best for laterally quick players who use side-to-side movements.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 12,
+        "name": "Rigorer AR 2",
+        "brand": "Rigorer",
+        "player": "Austin Reaves",
+        "release_date": "2025-01-01",
+        "description": "The AR 2 is best for guards who quickly get up and down the court.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 13,
+        "name": "Under Armour Curry Fox 1",
+        "brand": "Under Armour",
+        "player": "De'Aaron Fox",
+        "release_date": "2024-12-01",
+        "description": "This shoe is best suited for nimble guards with good footwork.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 14,
+        "name": "Adidas Dame Certified 3",
+        "brand": "Adidas",
+        "player": "Damian Lillard",
+        "release_date": "2024-12-01",
+        "description": "This shoe is a good low-budget shoe for stability.",
+        "shoe_type": "Low Top",
+        "retail_price": 84.99
+    },
+    {
+        "shoe_id": 15,
+        "name": "Li-Ning Way of Wade All City 13",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2024-12-01",
+        "description": "This shoe is best for quick, explosive guards but is versatile enough for everyone.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 16,
+        "name": "Li-Ning Wade Shadow 6",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2024-12-01",
+        "description": "This shoe offers something for all play styles but excels for explosive, snappy players.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 17,
+        "name": "ANTA KT 10",
+        "brand": "ANTA",
+        "player": "Klay Thompson",
+        "release_date": "2024-12-01",
+        "description": "This shoe excels at everything. It has something to offer for all players.",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 18,
+        "name": "Jordan Tatum 3",
+        "brand": "Jordan",
+        "player": "Jason Tatum",
+        "release_date": "2024-11-01",
+        "description": "The Tatum 3 is best for players who move a lot on their forefoot.",
+        "shoe_type": "Low Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 19,
+        "name": "Nike Lebron 22",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2024-11-01",
+        "description": "This shoe is best for anyone looking for a comfortable, responsive, and bouncy cushioning setup.",
+        "shoe_type": "Low Top",
+        "retail_price": 179.99
+    },
+    {
+        "shoe_id": 20,
+        "name": "Nike Ja 2",
+        "brand": "Nike",
+        "player": "Ja Morant",
+        "release_date": "2024-10-01",
+        "description": "The Ja 2 is best for players who enjoy light, speedy shoes with a bit of pop.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 21,
+        "name": "Puma MB.04",
+        "brand": "Puma",
+        "player": "LaMelo Ball",
+        "release_date": "2024-10-01",
+        "description": "The shoe is best for those who enjoy the comfortable midsole and upper materials from previous Puma MB shoes.",
+        "shoe_type": "Mid Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 22,
+        "name": "Nike Kobe 9 Elite Low Protro",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2024-10-01",
+        "description": "This shoe is best for players looking for elite traction performance.",
+        "shoe_type": "Low Top",
+        "retail_price": 209.99
+    },
+    {
+        "shoe_id": 23,
+        "name": "ANTA Shock Wave 6",
+        "brand": "ANTA",
+        "player": null,
+        "release_date": "2024-10-01",
+        "description": "This shoe is best suited for guards and other quick players.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 24,
+        "name": "New Balance Hesi Low V2",
+        "brand": "New Balance",
+        "player": null,
+        "release_date": "2024-09-01",
+        "description": "This shoe is best for lighter, nimbler players.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 25,
+        "name": "Adidas Dame 9",
+        "brand": "Adidas",
+        "player": "Damian Lillard",
+        "release_date": "2024-09-01",
+        "description": "The Dame 9 is best for players looking for soft cushioning and containment.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 26,
+        "name": "Nike Giannis Immortality 4",
+        "brand": "Nike",
+        "player": "Giannis Antetokounmpo",
+        "release_date": "2024-09-01",
+        "description": "The Nike Giannis Immortality 4 is best for players looking for a budget shoe with a durable outsole and supportive upper.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 27,
+        "name": "New Balance TWO WXY V5",
+        "brand": "New Balance",
+        "player": null,
+        "release_date": "2024-09-01",
+        "description": "The shoe plays well for all positions. It does it all.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 28,
+        "name": "ANTA KAI 1 Speed",
+        "brand": "ANTA",
+        "player": "Kyrie Irving",
+        "release_date": "2024-09-01",
+        "description": "This shoe is a good pick for players who want a more responsive version of the KAI 1.",
+        "shoe_type": "Low Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 29,
+        "name": "Jordan Luka 3",
+        "brand": "Jordan",
+        "player": "Luka Doncic",
+        "release_date": "2024-08-01",
+        "description": "The Luka 3 is best for shifty, balanced players who mainly play on clean courts.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 30,
+        "name": "Air Jordan 39",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2024-08-01",
+        "description": "This is the perfect shoe for players who love explosive cushioning setups.",
+        "shoe_type": "Low Top",
+        "retail_price": 199.99
+    },
+    {
+        "shoe_id": 31,
+        "name": "Adidas A.E. 1 Low",
+        "brand": "Adidas",
+        "player": "Anthony Edwards",
+        "release_date": "2024-08-01",
+        "description": "The shoe is best for shifty players who like to feel low to the ground.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 32,
+        "name": "Nike Zoom Freak 6",
+        "brand": "Nike",
+        "player": "Giannis Antetokounmpo",
+        "release_date": "2024-08-01",
+        "description": "The shoe's responsiveness and light weight are better suited for lighter guards.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 33,
+        "name": "Under Armour Curry 12",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2024-08-01",
+        "description": "The Curry 12 is the perfect shoe for players who need elite traction on clean courts.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 34,
+        "name": "Li-Ning Way of Wade All City 12 Encore",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2024-08-01",
+        "description": "This shoe has something for everyone. All players will enjoy the All City 12 Encore.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 35,
+        "name": "Li-Ning Wade Ice Blood 2",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2024-08-01",
+        "description": "The shoe is best for guards who play low to the ground.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 36,
+        "name": "Li-Ning Way of Wade 11",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2024-07-01",
+        "description": "The lightweight, well-cushioned Way of Wade 11 is recommended for players who like to get up and down the court and vertical.",
+        "shoe_type": "Low Top",
+        "retail_price": 224.99
+    },
+    {
+        "shoe_id": 37,
+        "name": "Adidas D.O.N. Issue 6",
+        "brand": "Adidas",
+        "player": "Donovan Mitchell",
+        "release_date": "2024-07-01",
+        "description": "The D.O.N. Issue 6 is best for quicker players looking for a bottom-light shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 38,
+        "name": "Nike Sabrina 2",
+        "brand": "Nike",
+        "player": "Sabrina Ionescu",
+        "release_date": "2024-07-01",
+        "description": "The shoe is a great pick for responsive and quick guards. The court feel and responsiveness will cater well to that play style.",
+        "shoe_type": "Mid Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 39,
+        "name": "Nike GT Hustle 3",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2024-07-01",
+        "description": "These shoes are best for bigs who get off the ground often and require impact protection.",
+        "shoe_type": "Mid Top",
+        "retail_price": 189.99
+    },
+    {
+        "shoe_id": 40,
+        "name": "Nike G.T. Hustle Academy",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2024-07-01",
+        "description": "This shoe is best for lighter players with a mobile play style.",
+        "shoe_type": "Low Top",
+        "retail_price": 94.99
+    },
+    {
+        "shoe_id": 41,
+        "name": "Li-Ning Wade 808 4 Ultra",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2024-07-01",
+        "description": "The 808 4 Ultra is best as a balanced performance shoe. It provides excellent performance in all aspects of the shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": null
+    },
+    {
+        "shoe_id": 42,
+        "name": "Nike Kobe Protro 8",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2024-06-01",
+        "description": "The shoe is best for quicker guards looking for an excellent court feel.",
+        "shoe_type": "Low Top",
+        "retail_price": 189.99
+    },
+    {
+        "shoe_id": 43,
+        "name": "Nike G.T. Cut Cross",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2024-05-01",
+        "description": "This is a solid option for outdoor play on a budget.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 44,
+        "name": "Puma Stewie 3",
+        "brand": "Puma",
+        "player": "Breanna Stewart",
+        "release_date": "2024-05-01",
+        "description": "Players who don't require much bounciness and excel with low-to-the-ground setups.",
+        "shoe_type": "Low Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 45,
+        "name": "Jordan Zion 3 SE",
+        "brand": "Jordan",
+        "player": "Zion Williamson",
+        "release_date": "2024-04-01",
+        "description": "The Jordan Zion 3 SE is best for narrow-foot players who like a drop-in midsole setup.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 46,
+        "name": "New Balance Kawhi 4",
+        "brand": "New Balance",
+        "player": "Kawhi Leonard",
+        "release_date": "2024-04-01",
+        "description": "The New Balance Kawhi 4 is best for players who enjoy springy, plush cushioning setups.",
+        "shoe_type": "Low Top",
+        "retail_price": 169.99
+    },
+    {
+        "shoe_id": 47,
+        "name": "Nike KD 17",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2024-04-01",
+        "description": "The Nike KD 17 is best for players who enjoyed the 16 and are looking for better traction.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 48,
+        "name": "Adidas Harden Volume 8",
+        "brand": "Adidas",
+        "player": "James Harden",
+        "release_date": "2024-03-01",
+        "description": "The Harden Vol 8 is best for players who use powerful footwork to create space.",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 49,
+        "name": "Jordan Tatum 2",
+        "brand": "Jordan",
+        "player": "Jason Tatum",
+        "release_date": "2024-03-01",
+        "description": "The Tatum 2 is best for players who prefer balanced setups with Air Strobel.",
+        "shoe_type": "Low Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 50,
+        "name": "ANTA KAI 1",
+        "brand": "ANTA",
+        "player": "Kyrie Irving",
+        "release_date": "2024-03-01",
+        "description": "The Anta KAI 1 is best for tactile players looking for a responsive and low-to-the-ground setup.",
+        "shoe_type": "Low Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 51,
+        "name": "Li-Ning JB 2",
+        "brand": "Li-Ning",
+        "player": "Jimmy Butler",
+        "release_date": "2024-03-01",
+        "description": "This shoe is perfect for players who appreciate maximum comfort.",
+        "shoe_type": "Low Top",
+        "retail_price": 289.99
+    },
+    {
+        "shoe_id": 52,
+        "name": "Nike Book 1",
+        "brand": "Nike",
+        "player": "Devin Booker",
+        "release_date": "2024-02-01",
+        "description": "The Nike Book 1 is better for lighter, shiftier players.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 53,
+        "name": "Under Armour Flow FUTR X Elite",
+        "brand": "Under Armour",
+        "player": null,
+        "release_date": "2024-02-01",
+        "description": "This shoe is best for players who prefer a wider, more accommodating forefoot area during play.",
+        "shoe_type": "High Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 54,
+        "name": "New Balance Fresh Foam BB V2",
+        "brand": "New Balance",
+        "player": null,
+        "release_date": "2024-02-01",
+        "description": "Explosive players who emphasize a vertical play style will appreciate the New Balance Fresh Foam BB V2.",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 55,
+        "name": "Nike Air Zoom G.T. Cut 3",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2024-01-01",
+        "description": "The Nike G.T. Cut 3 is a shifty shoe best for guards.",
+        "shoe_type": "Low Top",
+        "retail_price": 189.99
+    },
+    {
+        "shoe_id": 56,
+        "name": "Air Jordan 38 Low",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2024-01-01",
+        "description": "All players can take advantage of the comfortable cushioning and reliable traction.",
+        "shoe_type": "Low Top",
+        "retail_price": 174.99
+    },
+    {
+        "shoe_id": 57,
+        "name": "Adidas Dame Certified 2.0",
+        "brand": "Adidas",
+        "player": "Damian Lillard",
+        "release_date": "2024-01-01",
+        "description": "The shoe is for players who prefer thin, responsive cushion setups with grippy traction.",
+        "shoe_type": "Low Top",
+        "retail_price": 89.99
+    },
+    {
+        "shoe_id": 58,
+        "name": "Nike G.T. Cut Academy",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2024-01-01",
+        "description": "This shoe is best for players looking for shifty and reliable traction.",
+        "shoe_type": "Low Top",
+        "retail_price": 94.99
+    },
+    {
+        "shoe_id": 59,
+        "name": "Jordan One Take 5",
+        "brand": "Jordan",
+        "player": "Russell Westbrook",
+        "release_date": "2024-01-01",
+        "description": "The Jordan One Take 5 is best for players who play around the hoop.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 60,
+        "name": "Adidas Adizero Select 2.0",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2024-01-01",
+        "description": "The Adizero Select 2.0 is best for side-to-side shiftiness.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 61,
+        "name": "Adidas AE 1",
+        "brand": "Adidas",
+        "player": "Anthony Edwards",
+        "release_date": "2023-12-01",
+        "description": "The shoe is best for more powerful players who can utilize the bottom-heavy cushioning.",
+        "shoe_type": "Mid Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 62,
+        "name": "Puma Scoot Zeros",
+        "brand": "Puma",
+        "player": "Scoot Henderson",
+        "release_date": "2023-12-01",
+        "description": "This shoe is best for guards who prefer a responsive cushion setup over impact protection.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 63,
+        "name": "Under Armour Curry Spawn FloTro",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2023-12-01",
+        "description": "This shoe is best for guards with fast play styles who benefit from the Flow traction.",
+        "shoe_type": "High Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 64,
+        "name": "Li-Ning Way of Wade All City 12",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2023-12-01",
+        "description": "The Way of Wade All City 12 is best for guards or players who play fast and rely on court feel and responsiveness.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 65,
+        "name": "Adidas D.O.N. Issue 5",
+        "brand": "Adidas",
+        "player": "Donovan Mitchell",
+        "release_date": "2023-11-01",
+        "description": "The Adidas D.O.N. Issue #5 is best for players who like to get up and down the court quickly.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 66,
+        "name": "New Balance Hesi Low",
+        "brand": "New Balance",
+        "player": null,
+        "release_date": "2023-11-01",
+        "description": "The New Balance Hesi Low is best for shifty players who don't need much impact protection.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 67,
+        "name": "Nike Lebron 21",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2023-10-01",
+        "description": "The Nike LeBron 21 is fit for all play styles because of the mix of traction, cushioning and support.",
+        "shoe_type": "Low Top",
+        "retail_price": 199.99
+    },
+    {
+        "shoe_id": 68,
+        "name": "New Balance TWO WXY V4",
+        "brand": "New Balance",
+        "player": null,
+        "release_date": "2023-10-01",
+        "description": "This is the perfect pick for players seeking versatility in play style and court surface durability.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 69,
+        "name": "Jordan Zion 3",
+        "brand": "Jordan",
+        "player": "Zion Williamson",
+        "release_date": "2023-10-01",
+        "description": "The Zion 3 is best for heavier players with fast-paced play styles.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 70,
+        "name": "ANTA KT 9",
+        "brand": "ANTA",
+        "player": "Klay Thompson",
+        "release_date": "2023-10-01",
+        "description": "This shoe is best for players seeking stability and impact protection.",
+        "shoe_type": "Mid Top",
+        "retail_price": 169.99
+    },
+    {
+        "shoe_id": 71,
+        "name": "Nike Lebron Witness 8",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2023-10-01",
+        "description": "The Witness 8s are best for flat-footed players who rely on moving up and down the court.",
+        "shoe_type": "Mid Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 72,
+        "name": "Li-Ning Wade Shadow 5",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2023-10-01",
+        "description": "This shoe is best for outdoor play.",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 73,
+        "name": "Adidas Trae Young 3",
+        "brand": "Adidas",
+        "player": "Trae Young",
+        "release_date": "2023-09-01",
+        "description": "This shoe is meant for shifty players with a quick, grounded playstyle.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 74,
+        "name": "Puma MB.03",
+        "brand": "Puma",
+        "player": "LaMelo Ball",
+        "release_date": "2023-09-01",
+        "description": "This shoe is best for players who want a stable shoe with plenty of impact protection.",
+        "shoe_type": "Mid Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 75,
+        "name": "361 AG 4",
+        "brand": "361",
+        "player": "Aaron Gordon",
+        "release_date": "2023-09-01",
+        "description": "This shoe is best for players who jump often and require soft cushioning.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 76,
+        "name": "Under Armour Curry 11",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2023-09-01",
+        "description": "The Under Armour Curry 11 is the perfect shoe for quick and shifty guards.",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 77,
+        "name": "Air Jordan 38",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2023-08-01",
+        "description": "This is a perfect shoe for players looking for maximalist containment.",
+        "shoe_type": "High Top",
+        "retail_price": 199.99
+    },
+    {
+        "shoe_id": 78,
+        "name": "Nike KD 16",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2023-08-01",
+        "description": "The shoe has something for all positions. There are no outstanding weaknesses.",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 79,
+        "name": "Nike Giannis Immortality 3",
+        "brand": "Nike",
+        "player": "Giannis Antetokounmpo",
+        "release_date": "2023-08-01",
+        "description": "The Giannis Immortality 3 is a perfect budget pick for quick and minimal players.",
+        "shoe_type": "Low Top",
+        "retail_price": 84.99
+    },
+    {
+        "shoe_id": 80,
+        "name": "Rigorer AR 1",
+        "brand": "Rigorer",
+        "player": "Austin Reaves",
+        "release_date": "2023-08-01",
+        "description": "These shoes are a fantastic pick for players who change their pace often.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 81,
+        "name": "Nike Sabrina 1",
+        "brand": "Nike",
+        "player": "Sabrina Ionescu",
+        "release_date": "2023-08-01",
+        "description": "The Nike Sabrina 1 is best for shifty guard-type players.",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 82,
+        "name": "Nike G.T. Hustle 2",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2023-08-01",
+        "description": "The Hustle 2 is the perfect shoe for players who want to get up the court quickly.",
+        "shoe_type": "Mid Top",
+        "retail_price": 169.99
+    },
+    {
+        "shoe_id": 83,
+        "name": "Nike Zoom Freak 5",
+        "brand": "Nike",
+        "player": "Giannis Antetokounmpo",
+        "release_date": "2023-07-01",
+        "description": "The Zoom Freak 5s are best for players looking for a minimal shoe that doesn't sacrifice many features.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 84,
+        "name": "Nike G.T. Jump 2",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2023-07-01",
+        "description": "Any players who thrive with maximalist cushioning will love the Nike G.T. Jump 2.",
+        "shoe_type": "High Top",
+        "retail_price": 179.99
+    },
+    {
+        "shoe_id": 85,
+        "name": "Li-Ning Wade 808 3 Ultra",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2023-07-01",
+        "description": "The perfect shoe for bouncy players who enjoy low profile yet sturdy shoes.",
+        "shoe_type": "Low Top",
+        "retail_price": 199.99
+    },
+    {
+        "shoe_id": 86,
+        "name": "Jordan Luka 2",
+        "brand": "Jordan",
+        "player": "Luka Doncic",
+        "release_date": "2023-06-01",
+        "description": "Guards and wings who make quick cuts and stepbacks will benefit the most from this shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 87,
+        "name": "Puma All Pro Nitro",
+        "brand": "Puma",
+        "player": null,
+        "release_date": "2023-06-01",
+        "description": "Players looking for a versatile shoe that's not expensive will love the Puma All Pro Nitro.",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 88,
+        "name": "ANTA Shock Wave 5",
+        "brand": "ANTA",
+        "player": null,
+        "release_date": "2023-06-01",
+        "description": "Shifty players who enjoy court feel and grippy traction will like the Anta Shock Wave 5.",
+        "shoe_type": "Low Top",
+        "retail_price": 199.99
+    },
+    {
+        "shoe_id": 89,
+        "name": "Nike Cosmic Unity 3",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2023-05-01",
+        "description": "This shoe is potentially an excellent pick for outdoor players.",
+        "shoe_type": "Low Top",
+        "retail_price": 169.99
+    },
+    {
+        "shoe_id": 90,
+        "name": "Li-Ning Wade Fission 8",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2023-05-01",
+        "description": "The Fission 8 is best for faster players who use quick movements to their advantage.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 91,
+        "name": "Puma Stewie 2",
+        "brand": "Puma",
+        "player": "Breanna Stewart",
+        "release_date": "2023-05-01",
+        "description": "This shoe is best for players looking for a low-cut version of the MB.02.",
+        "shoe_type": "Low Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 92,
+        "name": "Li-Ning Wade All City 11 V2",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2023-05-01",
+        "description": "The All City V2 is a solid pickup for fans of the V1 who want sturdier materials.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 93,
+        "name": "Jordan Tatum 1",
+        "brand": "Jordan",
+        "player": "Jason Tatum",
+        "release_date": "2023-04-01",
+        "description": "A good pickup for bouncy players looking for a lightweight shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 94,
+        "name": "Li-Ning Wade 808 2 Ultra V2",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2023-04-01",
+        "description": "This shoe is a solid pick for players looking for something similar to the Kobe line.",
+        "shoe_type": "High Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 95,
+        "name": "Adidas BYW Select",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2023-04-01",
+        "description": "The BYW Select is an all-around shoe that performs well in all categories.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 96,
+        "name": "ANTA GH 4",
+        "brand": "ANTA",
+        "player": "Gordon Hayward",
+        "release_date": "2023-04-01",
+        "description": "The shoe is perfect for powerful playstyles because of the support and cushioning.",
+        "shoe_type": "Low Top",
+        "retail_price": 229.99
+    },
+    {
+        "shoe_id": 97,
+        "name": "Jordan Why Not Zero.6",
+        "brand": "Jordan",
+        "player": "Russell Westbrook",
+        "release_date": "2023-03-01",
+        "description": "A great pickup for players with straight-line speed and explosiveness.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 98,
+        "name": "Nike Ja 1",
+        "brand": "Nike",
+        "player": "Ja Morant",
+        "release_date": "2023-03-01",
+        "description": "A good pickup for shifty guards who play low to the ground.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 99,
+        "name": "New Balance Kawhi 3",
+        "brand": "New Balance",
+        "player": "Kawhi Leonard",
+        "release_date": "2023-03-01",
+        "description": "A great pick for players looking for versatile cushioning on clean courts.",
+        "shoe_type": "Mid Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 100,
+        "name": "Li-Ning Wade All City 11",
+        "brand": "Li-Ning",
+        "player": null,
+        "release_date": "2023-03-01",
+        "description": "An optimal pickup for springy players looking for comfortable cushioning.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.0
+    },
+    {
+        "shoe_id": 101,
+        "name": "Under Armour Spawn 5",
+        "brand": "Under Armour",
+        "player": null,
+        "release_date": "2023-03-01",
+        "description": "Price-conscious players who enjoy low-profile cushioning setups will enjoy this shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 102,
+        "name": "Li-Ning Wade Son of Flash",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2023-03-01",
+        "description": "This shoe is a good pick for quick guards looking for responsive cushioning.",
+        "shoe_type": "Low Top",
+        "retail_price": 134.99
+    },
+    {
+        "shoe_id": 103,
+        "name": "Under Armour Curry 2 Low FloTro",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2023-03-01",
+        "description": "The shoe is a solid pick for fans of older Curry models who want modern tech.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 104,
+        "name": "Adidas Trae Unlimited",
+        "brand": "Adidas",
+        "player": "Trae Young",
+        "release_date": "2023-03-01",
+        "description": "Players with grounded play styles will benefit the most from the Adidas Trae Unlimited.",
+        "shoe_type": "Low Top",
+        "retail_price": 89.99
+    },
+    {
+        "shoe_id": 105,
+        "name": "Nike LeBron NXXT Gen",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2023-02-01",
+        "description": "This shoe is a good pick for players who don't need maximum cushioning but still want Zoom.",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 106,
+        "name": "Adidas Harden Volume 7",
+        "brand": "Adidas",
+        "player": "James Harden",
+        "release_date": "2023-02-01",
+        "description": "The perfect shoe for those with versatile playstyles.",
+        "shoe_type": "Mid Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 107,
+        "name": "Li-Ning Ice Blood V2",
+        "brand": "Li-Ning",
+        "player": "D\u2019Angelo Russell",
+        "release_date": "2023-01-01",
+        "description": "Lighter, shifty guards will enjoy the Ice Blood V2.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 108,
+        "name": "Air Jordan 37 Low",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2023-01-01",
+        "description": "A perfect selection for players who want bouncy cushioning in a low-top shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 174.99
+    },
+    {
+        "shoe_id": 109,
+        "name": "Li-Ning Jimmy Butler 1",
+        "brand": "Li-Ning",
+        "player": "Jimmy Butler",
+        "release_date": "2023-01-01",
+        "description": "A perfect pickup for fast, quick players who rely on stability.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 110,
+        "name": "Jordan One Take 4",
+        "brand": "Jordan",
+        "player": "Russell Westbrook",
+        "release_date": "2022-12-01",
+        "description": "Players who mainly play outdoors and prefer responsive cushioning will enjoy this shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 111,
+        "name": "New Balance TWO WXY V3",
+        "brand": "New Balance",
+        "player": null,
+        "release_date": "2022-11-01",
+        "description": "Shifty guards who rely on traction will love this shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 112,
+        "name": "Li-Ning Way of Wade All City 10 V2",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2022-11-01",
+        "description": "A great pick for players looking for maximum performance without a max price tag.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 113,
+        "name": "Adidas Dame Certified",
+        "brand": "Adidas",
+        "player": "Dwyane Wade",
+        "release_date": "2022-11-01",
+        "description": "Budget-conscious players will enjoy the traction and versatility of the Dame Certified.",
+        "shoe_type": "Low Top",
+        "retail_price": 94.99
+    },
+    {
+        "shoe_id": 114,
+        "name": "361 DVD 1",
+        "brand": "361",
+        "player": "Spencer Dinwiddie",
+        "release_date": "2022-11-01",
+        "description": "Players with quick changes of direction and shifty speed changes will benefit the most from the traction and cushioning setup.",
+        "shoe_type": "Low Top",
+        "retail_price": 100.0
+    },
+    {
+        "shoe_id": 115,
+        "name": "361 AG 3",
+        "brand": "361",
+        "player": "Aaron Gordon",
+        "release_date": "2022-11-01",
+        "description": "This shoe is best for agile centers and power forwards who need support during quick movements.",
+        "shoe_type": "High Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 116,
+        "name": "Under Armour Curry 10",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2022-10-01",
+        "description": "Anyone that utilizes traction to maximize footwork",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 117,
+        "name": "Adidas D.O.N Issue #4",
+        "brand": "Adidas",
+        "player": "Donovan Mitchell",
+        "release_date": "2022-10-01",
+        "description": "A solid pick for shifty guards who need containment.",
+        "shoe_type": "Mid Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 118,
+        "name": "Adidas Trae Young 2.0",
+        "brand": "Adidas",
+        "player": "Trae Young",
+        "release_date": "2022-10-01",
+        "description": "A great pick for players who enjoy an all-knit construction and the freedom it brings.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 119,
+        "name": "Nike Air Deldon",
+        "brand": "Nike",
+        "player": "Elena Delle Donne",
+        "release_date": "2022-10-01",
+        "description": "A great pick for players who play on clean courts and enjoy full-length Air.",
+        "shoe_type": "High Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 120,
+        "name": "Puma MB.02",
+        "brand": "Puma",
+        "player": "LaMelo Ball",
+        "release_date": "2022-10-01",
+        "description": "Players who rely on footwork and enjoy extra impact protection",
+        "shoe_type": "Mid Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 121,
+        "name": "Nike Zoom Freak 4",
+        "brand": "Nike",
+        "player": "Giannis Antetokounmpo",
+        "release_date": "2022-09-01",
+        "description": "Players looking for solid performance and springy cushioning on a budget will enjoy this shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 134.99
+    },
+    {
+        "shoe_id": 122,
+        "name": "Air Jordan 37",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2022-09-01",
+        "description": "Recommended for forefoot-heavy players looking for a bouncy setup",
+        "shoe_type": "High Top",
+        "retail_price": 184.99
+    },
+    {
+        "shoe_id": 123,
+        "name": "Nike Lebron 20",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2022-09-01",
+        "description": "Quick and explosive players will enjoy this shoe the most.",
+        "shoe_type": "Low Top",
+        "retail_price": 199.99
+    },
+    {
+        "shoe_id": 124,
+        "name": "Li-Ning Wade 808 2",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2022-09-01",
+        "description": "Players who are fans of the Kobe 9 traction and cushioning setup",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 125,
+        "name": "ANTA KT 8",
+        "brand": "ANTA",
+        "player": null,
+        "release_date": "2022-09-01",
+        "description": "The Anta KT 8 is recommended for all different players. It has traction, cushioning, and support for most positions.",
+        "shoe_type": "High Top",
+        "retail_price": 169.99
+    },
+    {
+        "shoe_id": 126,
+        "name": "Nike Air Zoom G.T. Cut 2",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2022-08-01",
+        "description": "Shifty players who enjoy lots of cushioning",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 127,
+        "name": "Nike Cosmic Unity 2",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2022-08-01",
+        "description": "Players that want cushioning but also want to feel low to the ground",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 128,
+        "name": "Puma TRC Blaze Court",
+        "brand": "Puma",
+        "player": null,
+        "release_date": "2022-08-01",
+        "description": "Guards with a quick playstyle",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 129,
+        "name": "Puma Rise NITRO",
+        "brand": "Puma",
+        "player": null,
+        "release_date": "2022-08-01",
+        "description": "Players looking for a comfortable and reliable shoe",
+        "shoe_type": "Mid Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 130,
+        "name": "Under Armour Curry HOVR Splash",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2022-07-01",
+        "description": "Available at2shops| Official Retail Price: $109.99",
+        "shoe_type": "Mid Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 131,
+        "name": "Nike Giannis Immortality 2",
+        "brand": "Nike",
+        "player": "Giannis Antetokounmpo",
+        "release_date": "2022-07-01",
+        "description": "Recommended for smaller, shifty guards.",
+        "shoe_type": "Low Top",
+        "retail_price": 84.99
+    },
+    {
+        "shoe_id": 132,
+        "name": "Jordan Luka 1",
+        "brand": "Jordan",
+        "player": "Luka Doncic",
+        "release_date": "2022-07-01",
+        "description": "Recommended for players that use a lot of side steps and other lateral movements.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 133,
+        "name": "Li-Ning Way of Wade 10",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2022-07-01",
+        "description": "This shoe is an excellent pick for quick, explosive players who enjoy a bouncy feeling in their shoes.",
+        "shoe_type": "Low Top",
+        "retail_price": 225.0
+    },
+    {
+        "shoe_id": 134,
+        "name": "Nike Precision 6",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2022-07-01",
+        "description": "Excellent shoe for budget-conscious players.",
+        "shoe_type": "Low Top",
+        "retail_price": 74.99
+    },
+    {
+        "shoe_id": 135,
+        "name": "Puma MB.01 Lo",
+        "brand": "Puma",
+        "player": "LaMelo Ball",
+        "release_date": "2022-07-01",
+        "description": "Players who want an all-around performer with no weaknesses.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 136,
+        "name": "New Balance TWO WXY V2",
+        "brand": "New Balance",
+        "player": null,
+        "release_date": "2022-06-01",
+        "description": "Ideal for players willing to give up some cushion for the other performance aspects fundamentals will enjoy this shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 137,
+        "name": "Jordan Zion 2",
+        "brand": "Jordan",
+        "player": "Zion Williamson",
+        "release_date": "2022-06-01",
+        "description": "Recommended for players that rely on lateral cuts and movements.",
+        "shoe_type": "Mid Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 138,
+        "name": "Air Jordan 36 Low",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2022-06-01",
+        "description": "Awesome shoe for players with explosive play styles looking for the extra lift when jumping.",
+        "shoe_type": "Low Top",
+        "retail_price": 184.99
+    },
+    {
+        "shoe_id": 139,
+        "name": "Under Armour Curry 4 FloTro",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2022-06-01",
+        "description": "The perfect shoe for players who rely on footwork and quick movements",
+        "shoe_type": "High Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 140,
+        "name": "Under Armour HOVR Havoc 4 Clone",
+        "brand": "Under Armour",
+        "player": null,
+        "release_date": "2022-05-01",
+        "description": "Recommended for anyone playing primarily on clean courts looking for court feel and responsiveness.",
+        "shoe_type": "High Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 141,
+        "name": "Nike Renew Elevate 3",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2022-05-01",
+        "description": "Perfect for players that need a reliable outdoor shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 79.99
+    },
+    {
+        "shoe_id": 142,
+        "name": "Nike Kyrie Low 5",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2022-04-01",
+        "description": "A great pick for players that rely on quick footwork.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 143,
+        "name": "Nike KD 15",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2022-04-01",
+        "description": "Best for players looking for a shoe that covers all the bases.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 144,
+        "name": "Nike Lebron 19 Low",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2022-03-01",
+        "description": "Players looking for a less bulky LeBron shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 145,
+        "name": "New Balance Kawhi 2",
+        "brand": "New Balance",
+        "player": "Kawhi Leonard",
+        "release_date": "2022-03-01",
+        "description": "Best for forwards and centers that need strong traction and stability.",
+        "shoe_type": "High Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 146,
+        "name": "ANTA KT 7",
+        "brand": "ANTA",
+        "player": "Klay Thompson",
+        "release_date": "2022-03-01",
+        "description": "The Anta KT 7 is best for players looking for a solid foundation of stability and comfortable cushioning.",
+        "shoe_type": "High Top",
+        "retail_price": 169.99
+    },
+    {
+        "shoe_id": 147,
+        "name": "Jordan Why Not Zero.5",
+        "brand": "Jordan",
+        "player": "Russell Westbrook",
+        "release_date": "2022-02-01",
+        "description": "Players that enjoy the feeling of forefoot Zoom.",
+        "shoe_type": "Mid Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 148,
+        "name": "Nike Air Zoom GT Jump",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2022-02-01",
+        "description": "Best for players with an explosive play style looking for good cushioning.",
+        "shoe_type": "High Top",
+        "retail_price": 179.99
+    },
+    {
+        "shoe_id": 149,
+        "name": "Adidas Harden Vol. 6",
+        "brand": "Adidas",
+        "player": "James Harden",
+        "release_date": "2022-02-01",
+        "description": "Great shoe for fans of the full-length Boost setup",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 150,
+        "name": "Nike PG 6",
+        "brand": "Nike",
+        "player": "Paul George",
+        "release_date": "2022-02-01",
+        "description": "Best for players looking for a well-balanced performance shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 151,
+        "name": "Jordan Zoom Separate",
+        "brand": "Jordan",
+        "player": null,
+        "release_date": "2022-01-01",
+        "description": "Best for forefoot heavy players that need the cushion.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 152,
+        "name": "Puma MB.01",
+        "brand": "Puma",
+        "player": "LaMelo Ball",
+        "release_date": "2022-01-01",
+        "description": "Good fit for players that are looking for a solid overall shoe.",
+        "shoe_type": "Mid Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 153,
+        "name": "Nike Fly By Mid 3",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2022-01-01",
+        "description": "Players who are budget conscious or who're looking for a pair to beat up.",
+        "shoe_type": "Low Top",
+        "retail_price": 64.99
+    },
+    {
+        "shoe_id": 154,
+        "name": "Adidas Harden Stepback 3",
+        "brand": "Adidas",
+        "player": "James Harden",
+        "release_date": "2022-01-01",
+        "description": "Recommended for guards that heavily rely on footwork",
+        "shoe_type": "Low Top",
+        "retail_price": 79.99
+    },
+    {
+        "shoe_id": 155,
+        "name": "Nike Kyrie 8",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2021-12-01",
+        "description": "Best for players looking for a shoe with no real weaknesses.",
+        "shoe_type": "High Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 156,
+        "name": "Under Armour Curry 9",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2021-12-01",
+        "description": "Great shoe if you rely on traction and court feel.",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 157,
+        "name": "Adidas Dame 8",
+        "brand": "Adidas",
+        "player": "Damian Lillard",
+        "release_date": "2021-12-01",
+        "description": "Recommended if you play on clean courts and looking for comfortable, supportive shoes.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 158,
+        "name": "Nike Kyrie Flytrap 5",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2021-11-01",
+        "description": "Players that like a responsive shoe and don't need impact protection.",
+        "shoe_type": "Low Top",
+        "retail_price": 89.99
+    },
+    {
+        "shoe_id": 159,
+        "name": "Nike Lebron 19",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2021-11-01",
+        "description": "Perfect if you enjoy extra cushion and impact protection.",
+        "shoe_type": "High Top",
+        "retail_price": 199.99
+    },
+    {
+        "shoe_id": 160,
+        "name": "Jordan One Take 3",
+        "brand": "Jordan",
+        "player": "Russell Westbrook",
+        "release_date": "2021-11-01",
+        "description": "Anyone looking for a price-conscious shoe without sacrificing anything performance-wise.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 161,
+        "name": "Nike Lebron Witness 6",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2021-10-01",
+        "description": "Players that really like the aesthetic or players that are looking for a shoe that can hold up outdoors.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 162,
+        "name": "Nike Air Max Impact 3",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2021-10-01",
+        "description": "Good choice for players that are looking for a shoe to beat up outdoors",
+        "shoe_type": "Mid Top",
+        "retail_price": 89.99
+    },
+    {
+        "shoe_id": 163,
+        "name": "Air Jordan 36",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2021-09-01",
+        "description": "Great for players that are looking for a top-tier performance basketball shoe.",
+        "shoe_type": "High Top",
+        "retail_price": 184.99
+    },
+    {
+        "shoe_id": 164,
+        "name": "Puma Fusion Nitro Spectra",
+        "brand": "Puma",
+        "player": null,
+        "release_date": "2021-09-01",
+        "description": "Players that are looking for grippy traction.",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 165,
+        "name": "Adidas Trae Young 1",
+        "brand": "Adidas",
+        "player": "Trae Young",
+        "release_date": "2021-09-01",
+        "description": "Fans of Trae Young that are looking for a comfortable cushion setup.",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 166,
+        "name": "Under Armour Flow FUTR X",
+        "brand": "Under Armour",
+        "player": null,
+        "release_date": "2021-08-01",
+        "description": "Perfect shoe for guards that have a quick style of play.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 167,
+        "name": "Adidas Exhibit A",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2021-08-01",
+        "description": "Great for players that have a quick and shifty play style.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 168,
+        "name": "Adidas D Rose Son Of Chi",
+        "brand": "Adidas",
+        "player": "Derrick Rose",
+        "release_date": "2021-08-01",
+        "description": "Players with quick playstyles and don't need lots of impact protection.",
+        "shoe_type": "High Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 169,
+        "name": "Adidas D.O.N Issue #3",
+        "brand": "Adidas",
+        "player": "Donovan Mitchell",
+        "release_date": "2021-07-01",
+        "description": "Best for players looking for a responsive and lightweight shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 170,
+        "name": "Nike Zoom Freak 3",
+        "brand": "Nike",
+        "player": "Giannis Antetokounmpo",
+        "release_date": "2021-07-01",
+        "description": "Good choice for players that enjoy a lightweight and minimal feeling shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 171,
+        "name": "Nike Air Zoom G.T. Run",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2021-07-01",
+        "description": "Recommended for players that look for cushion and impact protection.",
+        "shoe_type": "Mid Top",
+        "retail_price": 174.99
+    },
+    {
+        "shoe_id": 172,
+        "name": "Nike Giannis Immortality",
+        "brand": "Nike",
+        "player": "Giannis Antetokounmpo",
+        "release_date": "2021-07-01",
+        "description": "Best for price-conscious players looking for a shoe that feels quick.",
+        "shoe_type": "Low Top",
+        "retail_price": 79.99
+    },
+    {
+        "shoe_id": 173,
+        "name": "Nike Kyrie Low 4",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2021-06-01",
+        "description": "Especially recommended for guards that want a responsive shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 174,
+        "name": "Under Armour Curry 3Z5",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2021-06-01",
+        "description": "Guards who want to play quick but still like impact protection.",
+        "shoe_type": "Low Top",
+        "retail_price": 79.99
+    },
+    {
+        "shoe_id": 175,
+        "name": "Nike Air Zoom G.T. Cut",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2021-05-01",
+        "description": "Players that like a fast and responsive shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 169.99
+    },
+    {
+        "shoe_id": 176,
+        "name": "Jordan Zion 1",
+        "brand": "Jordan",
+        "player": "Zion Williamson",
+        "release_date": "2021-05-01",
+        "description": "A very versatile shoe that will work for most players.",
+        "shoe_type": "Mid Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 177,
+        "name": "Nike KD Trey 5 IX",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2021-05-01",
+        "description": "Solid pickup if you are looking for lightweight, minimal, and affordable basketball shoes.",
+        "shoe_type": "Low Top",
+        "retail_price": 89.99
+    },
+    {
+        "shoe_id": 178,
+        "name": "Adidas N3XT L3V3L Futurenatural",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2021-04-01",
+        "description": "Best for guards or wings who need a lot of responsiveness with some ankle support.",
+        "shoe_type": "Mid Top",
+        "retail_price": 179.99
+    },
+    {
+        "shoe_id": 179,
+        "name": "Nike KD 14",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2021-04-01",
+        "description": "A versatile shoe that works for all type of players.",
+        "shoe_type": "Mid Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 180,
+        "name": "Nike Precision 5",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2021-04-01",
+        "description": "A good shoe for those who like court feel and don't need much impact protection.",
+        "shoe_type": "Low Top",
+        "retail_price": 69.99
+    },
+    {
+        "shoe_id": 181,
+        "name": "Puma Court Rider",
+        "brand": "Puma",
+        "player": null,
+        "release_date": "2021-04-01",
+        "description": "Players that enjoy low to the ground shoes.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 182,
+        "name": "Under Armour Anatomix Spawn 3",
+        "brand": "Under Armour",
+        "player": null,
+        "release_date": "2021-03-01",
+        "description": "Great for any position or player who wants a balanced cushion setup.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 183,
+        "name": "Nike Cosmic Unity",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2021-03-01",
+        "description": "Best for players who need a good mix of impact protection and court feel.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 184,
+        "name": "Nike Lebron 18 Low",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2021-03-01",
+        "description": "Great for forwards or centers who need a lot of impact protection.",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 185,
+        "name": "New Balance TWO WXY",
+        "brand": "New Balance",
+        "player": null,
+        "release_date": "2021-03-01",
+        "description": "Great for players of any position who look for court feel and ankle support.",
+        "shoe_type": "Mid Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 186,
+        "name": "Nike PG 5",
+        "brand": "Nike",
+        "player": "Paul George",
+        "release_date": "2021-02-01",
+        "description": "Works best for players that prefer a minimal, lightweight, and responsive shoe no matter what position they play.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 187,
+        "name": "Li-Ning Way of Wade 9 Infinity",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2021-02-01",
+        "description": "Players that like to take advantage of their straight-line speed.",
+        "shoe_type": "High Top",
+        "retail_price": 255.0
+    },
+    {
+        "shoe_id": 188,
+        "name": "Li-Ning Way of Wade 9",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2021-02-01",
+        "description": "Recommended for most playstyles, but more so for laterally, shifty players.",
+        "shoe_type": "Low Top",
+        "retail_price": 225.0
+    },
+    {
+        "shoe_id": 189,
+        "name": "Adidas Harden Vol. 5",
+        "brand": "Adidas",
+        "player": "James Harden",
+        "release_date": "2021-01-01",
+        "description": "Only recommended for players who hoop outdoors and need a responsive shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 190,
+        "name": "Nike Kobe 6 Protro",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2021-01-01",
+        "description": "Players who want a strong performing, balanced shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 179.99
+    },
+    {
+        "shoe_id": 191,
+        "name": "Adidas Harden Stepback 2",
+        "brand": "Adidas",
+        "player": "James Harden",
+        "release_date": "2021-01-01",
+        "description": "Best for guards or wings who want court feel and don't need a lot of compression.",
+        "shoe_type": "Low Top",
+        "retail_price": 79.99
+    },
+    {
+        "shoe_id": 192,
+        "name": "Jordan Why Not Zero.4",
+        "brand": "Jordan",
+        "player": "Russell Westbrook",
+        "release_date": "2021-01-01",
+        "description": "Great for players who like forefoot Zoom and don't make a lot of lateral moves.",
+        "shoe_type": "Mid Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 193,
+        "name": "Jordan One Take 2",
+        "brand": "Jordan",
+        "player": "Russell Westbrook",
+        "release_date": "2021-01-01",
+        "description": "Only recommended for players who need an affordable option for primarily outdoor play.",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 194,
+        "name": "Jordan Jumpman 2021",
+        "brand": "Jordan",
+        "player": null,
+        "release_date": "2021-01-01",
+        "description": "Best for quick players who need the cushioning to take care of their legs.",
+        "shoe_type": "Mid Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 195,
+        "name": "Under Armour Curry 8",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2020-12-01",
+        "description": "Great all around hoop shoe for guards and wings.",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 196,
+        "name": "Adidas D Rose 11",
+        "brand": "Adidas",
+        "player": "Derrick Rose",
+        "release_date": "2020-12-01",
+        "description": "Great for wide footers or those who prefer a roomier fit.",
+        "shoe_type": "Mid Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 197,
+        "name": "Nike Zoom Rize 2",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2020-12-01",
+        "description": "Works for centers as well as explosive down-the-line guards.",
+        "shoe_type": "Mid Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 198,
+        "name": "Puma Clyde All-Pro",
+        "brand": "Puma",
+        "player": null,
+        "release_date": "2020-12-01",
+        "description": "Great for any position or player who likes responsive cushion and a minimal feel.",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 199,
+        "name": "Li-Ning Wade All City 9",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2020-12-01",
+        "description": "A great pick for just about any position.",
+        "shoe_type": "Low Top",
+        "retail_price": 149.0
+    },
+    {
+        "shoe_id": 200,
+        "name": "Nike Kyrie 7",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2020-11-01",
+        "description": "Great for quick players like guards who are shifty and make a lot of cuts.",
+        "shoe_type": "Mid Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 201,
+        "name": "Nike Lebron Witness 5",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2020-11-01",
+        "description": "Great for players of all positions looking for a <$100 hoop shoe.",
+        "shoe_type": "Mid Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 202,
+        "name": "New Balance Kawhi 1",
+        "brand": "New Balance",
+        "player": "Kawhi Leonard",
+        "release_date": "2020-11-01",
+        "description": "Best for bigger players who need a very supportive and rigid shoe.",
+        "shoe_type": "Mid Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 203,
+        "name": "Nike Kyrie Flytrap 4",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2020-11-01",
+        "description": "Great for quick guards who need a cheap and responsive shoe.",
+        "shoe_type": "Mid Top",
+        "retail_price": 89.99
+    },
+    {
+        "shoe_id": 204,
+        "name": "Nike Lebron 18",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2020-10-01",
+        "description": "Great for big guys who like soft and comfortable cushioning.",
+        "shoe_type": "High Top",
+        "retail_price": 199.99
+    },
+    {
+        "shoe_id": 205,
+        "name": "Air Jordan 35",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2020-10-01",
+        "description": "The perfect shoe for players of every position who want a premium experience.",
+        "shoe_type": "High Top",
+        "retail_price": 179.99
+    },
+    {
+        "shoe_id": 206,
+        "name": "Adidas Dame 7",
+        "brand": "Adidas",
+        "player": "Damian Lillard",
+        "release_date": "2020-10-01",
+        "description": "A perfectly balanced shoe that fits any position or player.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 207,
+        "name": "Nike Kyrie Low 3",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2020-09-01",
+        "description": "Best for guards or wings who need a lot of court feel and support.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 208,
+        "name": "Puma RS Dreamer",
+        "brand": "Puma",
+        "player": null,
+        "release_date": "2020-09-01",
+        "description": "Great for guards or big guys that need a supportive shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 209,
+        "name": "Nike Lebron Soldier 14",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2020-09-01",
+        "description": "Great for big guys who like forefoot cushion and need a lot of support.",
+        "shoe_type": "High Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 210,
+        "name": "Under Armour Embiid 1",
+        "brand": "Under Armour",
+        "player": "Joel Embiid",
+        "release_date": "2020-09-01",
+        "description": "Great for any position or player looking for a responsive shoe.",
+        "shoe_type": "Mid Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 211,
+        "name": "Nike Kybrid S2",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2020-09-01",
+        "description": "Great for guards and smaller wings who are quick on their feet.",
+        "shoe_type": "Mid Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 212,
+        "name": "Adidas D.O.N Issue #2",
+        "brand": "Adidas",
+        "player": "Donovan Mitchell",
+        "release_date": "2020-08-01",
+        "description": "Players looking for a very supportive shoe with good impact protection",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 213,
+        "name": "Nike Zoom Freak 2",
+        "brand": "Nike",
+        "player": "Giannis Antetokounmpo",
+        "release_date": "2020-08-01",
+        "description": "A great choice for guards who prefer court feel over impact protection.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 214,
+        "name": "Adidas N3XT L3V3L 2020",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2020-08-01",
+        "description": "Any type of player who wants to be light and quick on their feet",
+        "shoe_type": "High Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 215,
+        "name": "Nike Renew Elevate",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2020-08-01",
+        "description": "A good choice for outdoor courts",
+        "shoe_type": "High Top",
+        "retail_price": 79.99
+    },
+    {
+        "shoe_id": 216,
+        "name": "Adidas Pro Boost Low",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2020-08-01",
+        "description": "Great for fast and quick players who need a supportive and minimal shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 217,
+        "name": "Nike Mama Fury",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2020-08-01",
+        "description": "Best for players who like snug shoes with a lot of court feel",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 218,
+        "name": "Jordan React Elevation",
+        "brand": "Jordan",
+        "player": null,
+        "release_date": "2020-08-01",
+        "description": "Great for any position or style of play.",
+        "shoe_type": "High Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 219,
+        "name": "Nike Air Zoom BB NXT",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2020-07-01",
+        "description": "Works best for big guys looking for a lot of impact protection",
+        "shoe_type": "Low Top",
+        "retail_price": 179.99
+    },
+    {
+        "shoe_id": 220,
+        "name": "Under Armour HOVR Havoc 3",
+        "brand": "Under Armour",
+        "player": null,
+        "release_date": "2020-07-01",
+        "description": "Best for quick guards who need a responsive and supportive shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 221,
+        "name": "Adidas Crazy BYW 2.0",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2020-05-01",
+        "description": "Great shoe if you are looking for a supportive and well-cushioned Low Top.",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 222,
+        "name": "Jordan Westbrook One Take",
+        "brand": "Jordan",
+        "player": "Russell Westbrook",
+        "release_date": "2020-05-01",
+        "description": "Great pick for price-conscious players looking for an all-around solid performing shoe.",
+        "shoe_type": "Mid Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 223,
+        "name": "Converse G4 Low",
+        "brand": "Converse",
+        "player": null,
+        "release_date": "2020-05-01",
+        "description": "Works best for players looking for a responsive and stable shoe",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 224,
+        "name": "Nike KD 13",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2020-04-01",
+        "description": "A great pick if you are looking for a comfortable shoe that will also work outdoors.",
+        "shoe_type": "Mid Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 225,
+        "name": "Nike KD Trey 5 VIII",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2020-04-01",
+        "description": "Best for outdoor use or those looking for a good deal",
+        "shoe_type": "Mid Top",
+        "retail_price": 89.99
+    },
+    {
+        "shoe_id": 226,
+        "name": "Nike Adapt BB 2.0",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2020-02-01",
+        "description": "Collector's item for sneakerheads who are into the innovative tech",
+        "shoe_type": "Low Top",
+        "retail_price": 399.99
+    },
+    {
+        "shoe_id": 227,
+        "name": "Nike Lebron 17 Low",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2020-02-01",
+        "description": "A great choice for Lebron fans who prefer low-tops compared to Lebron's pretty bulky high-tops",
+        "shoe_type": "Low Top",
+        "retail_price": 169.99
+    },
+    {
+        "shoe_id": 228,
+        "name": "Adidas Pro Model 2G",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2020-02-01",
+        "description": "Perfect if you are looking for affordable shoes that work outdoors.",
+        "shoe_type": "Mid Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 229,
+        "name": "Jordan Why Not Zero.3",
+        "brand": "Jordan",
+        "player": "Russell Westbrook",
+        "release_date": "2020-01-01",
+        "description": "Works great for explosive players who like to stand out on the court",
+        "shoe_type": "High Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 230,
+        "name": "Nike Kobe 5 Protro",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2020-01-01",
+        "description": "Must-have shoes for fans of the original Kobe 5",
+        "shoe_type": "Low Top",
+        "retail_price": 179.99
+    },
+    {
+        "shoe_id": 231,
+        "name": "Nike PG 4",
+        "brand": "Nike",
+        "player": "Paul George",
+        "release_date": "2020-01-01",
+        "description": "Super comfortable and well-cushioned basketball shoes",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 232,
+        "name": "Nike Kyrie Flytrap 3",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2020-01-01",
+        "description": "Works best as your outdoor basketball shoes",
+        "shoe_type": "Low Top",
+        "retail_price": 79.99
+    },
+    {
+        "shoe_id": 233,
+        "name": "Li-Ning Way of Wade 8",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2020-01-01",
+        "description": "Quick players who need a responsive shoe that can keep up",
+        "shoe_type": "High Top",
+        "retail_price": 225.0
+    },
+    {
+        "shoe_id": 234,
+        "name": "Under Armour Anatomix Spawn 2",
+        "brand": "Under Armour",
+        "player": null,
+        "release_date": "2020-01-01",
+        "description": "Works best for guards with wide feet looking for a responsive shoe",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 235,
+        "name": "Adidas Harden Stepback",
+        "brand": "Adidas",
+        "player": "James Harden",
+        "release_date": "2020-01-01",
+        "description": "A great choice for price-conscious guards who like responsive cushioning",
+        "shoe_type": "Low Top",
+        "retail_price": 79.99
+    },
+    {
+        "shoe_id": 236,
+        "name": "Adidas Dame 6",
+        "brand": "Adidas",
+        "player": "Damian Lillard",
+        "release_date": "2019-12-01",
+        "description": "Works best for guards who play on clean courts most of the time",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 237,
+        "name": "Nike Air Zoom UNVRS",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2019-12-01",
+        "description": "Good choice if you are looking for shoes that are comfortable and easy to put on",
+        "shoe_type": "High Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 238,
+        "name": "Under Armour Curry 7",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2019-11-01",
+        "description": "Works best for quick guards who value court feel over impact protection",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 239,
+        "name": "Puma Clyde Hardwood",
+        "brand": "Puma",
+        "player": null,
+        "release_date": "2019-11-01",
+        "description": "Great shoe if you are looking for beastly traction and minimal, responsive cushioning",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 240,
+        "name": "New Balance OMN1S",
+        "brand": "New Balance",
+        "player": null,
+        "release_date": "2019-11-01",
+        "description": "A durable performer with comfortable cushioning, good materials, and great traction on clean courts",
+        "shoe_type": "High Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 241,
+        "name": "Nike Kyrie 6",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2019-11-01",
+        "description": "Great traction and support with a low-to-the-ground, responsive cushioning",
+        "shoe_type": "High Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 242,
+        "name": "Air Jordan 34",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2019-10-01",
+        "description": "A great option if you are looking for a light & stylish shoe with no real weaknesses",
+        "shoe_type": "High Top",
+        "retail_price": 179.99
+    },
+    {
+        "shoe_id": 243,
+        "name": "Nike Lebron 17",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2019-10-01",
+        "description": "Top choice if you are looking for a comfortable, supportive shoe with a ton of impact protection",
+        "shoe_type": "High Top",
+        "retail_price": 199.99
+    },
+    {
+        "shoe_id": 244,
+        "name": "Adidas Harden Vol. 4",
+        "brand": "Adidas",
+        "player": "James Harden",
+        "release_date": "2019-10-01",
+        "description": "Best for guards looking for a fast, low-to-the-ground, and supportive shoe",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 245,
+        "name": "Adidas D Rose 10",
+        "brand": "Adidas",
+        "player": "Derrick Rose",
+        "release_date": "2019-10-01",
+        "description": "Recommended for D-Rose fans who enjoy soft cushioning and play on clean courts",
+        "shoe_type": "High Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 246,
+        "name": "ANTA KT 5",
+        "brand": "ANTA",
+        "player": "Klay Thompson",
+        "release_date": "2019-10-01",
+        "description": "A durable shoe for any position or style of play.",
+        "shoe_type": "High Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 247,
+        "name": "Nike Lebron Witness 4",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2019-10-01",
+        "description": "Only recommended for Lebron fans who can't afford his more expensive signature shoes",
+        "shoe_type": "High Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 248,
+        "name": "Jordan Jumpman 2020",
+        "brand": "Jordan",
+        "player": null,
+        "release_date": "2019-10-01",
+        "description": "A great overall performer that comes at a very affordable retail price",
+        "shoe_type": "High Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 249,
+        "name": "Nike Zoom Rize",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2019-09-01",
+        "description": "Suitable for all players, especially big guys looking for support and comfort",
+        "shoe_type": "High Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 250,
+        "name": "Nike Kobe AD NXT FastFit",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2019-09-01",
+        "description": "Great shoe for quick, low-to-the-ground players who are into futuristic looks",
+        "shoe_type": "Mid Top",
+        "retail_price": 199.99
+    },
+    {
+        "shoe_id": 251,
+        "name": "Nike AlphaDunk",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2019-09-01",
+        "description": "Only works for slow, heavy big guys looking for support and impact protection",
+        "shoe_type": "High Top",
+        "retail_price": 179.99
+    },
+    {
+        "shoe_id": 252,
+        "name": "Nike KD Trey 5 VII",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2019-08-01",
+        "description": "Great shoe if you like soft cushioning and don't need a lot of support",
+        "shoe_type": "Low Top",
+        "retail_price": 89.99
+    },
+    {
+        "shoe_id": 253,
+        "name": "Jordan Jumpman Diamond Mid",
+        "brand": "Jordan",
+        "player": null,
+        "release_date": "2019-08-01",
+        "description": "Perfect for players who like to stand out on the court",
+        "shoe_type": "Mid Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 254,
+        "name": "Adidas Pro Bounce 2019 Low",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2019-08-01",
+        "description": "The Pro Bounce is not recommended due to its lacking traction",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 255,
+        "name": "Jordan Zoom Zero Gravity",
+        "brand": "Jordan",
+        "player": null,
+        "release_date": "2019-08-01",
+        "description": "A great shoe for price-conscious hoopers looking for a fast low-top",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 256,
+        "name": "Nike Zoom Freak 1",
+        "brand": "Nike",
+        "player": "Giannis Antetokounmpo",
+        "release_date": "2019-07-01",
+        "description": "Very low-to-the-ground feeling with very firm forefoot-cushioning",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 257,
+        "name": "Adidas DON Issue 1",
+        "brand": "Adidas",
+        "player": "Donovan Mitchell",
+        "release_date": "2019-07-01",
+        "description": "Recommended for  explosive guards looking for a supportive and responsive low-top",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 258,
+        "name": "Under Armour Curry 3Zero 3",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2019-07-01",
+        "description": "Great budget option for players who prefer lightweight and minimal shoes",
+        "shoe_type": "Low Top",
+        "retail_price": 89.99
+    },
+    {
+        "shoe_id": 259,
+        "name": "Under Armour HOVR Havoc 2",
+        "brand": "Under Armour",
+        "player": null,
+        "release_date": "2019-07-01",
+        "description": "Best for players looking for a supportive shoe with well-balanced cushioning",
+        "shoe_type": "High Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 260,
+        "name": "Nike Lebron Soldier 13",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2019-07-01",
+        "description": "A great all-around performer that works very well for heavier players",
+        "shoe_type": "High Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 261,
+        "name": "Converse All Star Pro BB",
+        "brand": "Converse",
+        "player": null,
+        "release_date": "2019-06-01",
+        "description": "Perfect for narrow-footers who like light and responsive shoes",
+        "shoe_type": "High Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 262,
+        "name": "Jordan CP3 12",
+        "brand": "Jordan",
+        "player": "Chris Paul",
+        "release_date": "2019-06-01",
+        "description": "Perfect shoe if you are looking for an affordable, top-tier performer, that you can play outdoors too",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 263,
+        "name": "Nike Kyrie Low 2",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2019-06-01",
+        "description": "Works best for narrow-footers looking for a good allrounder with responsive cushioning",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 264,
+        "name": "Nike Mamba Focus",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2019-04-01",
+        "description": "An affordable shoe for playing outdoors",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 265,
+        "name": "Nike KD 12",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2019-04-01",
+        "description": "A well-balanced shoe that works for a wide array of basketball players",
+        "shoe_type": "Mid Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 266,
+        "name": "Adidas Pro Bounce Madness",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2019-03-01",
+        "description": "Works for all playing styles and positions",
+        "shoe_type": "High Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 267,
+        "name": "Nike PG 3",
+        "brand": "Nike",
+        "player": "Paul George",
+        "release_date": "2019-02-01",
+        "description": "Versatile shoe that works for all positions",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 268,
+        "name": "Adidas Dame 5",
+        "brand": "Adidas",
+        "player": "Damian Lillard",
+        "release_date": "2019-02-01",
+        "description": "The Dame 5 works best for quick guards who prefer responsive cushioning",
+        "shoe_type": "Mid Top",
+        "retail_price": 114.99
+    },
+    {
+        "shoe_id": 269,
+        "name": "Under Armour Anatomix Spawn Low",
+        "brand": "Under Armour",
+        "player": null,
+        "release_date": "2019-02-01",
+        "description": "Perfect for quick point guards who want to be able to stop on a dime",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 270,
+        "name": "Nike Kobe 4 Protro",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2019-02-01",
+        "description": "A very versatile shoe that will be most appreciated by players who had the OG Kobe 4",
+        "shoe_type": "Low Top",
+        "retail_price": 174.99
+    },
+    {
+        "shoe_id": 271,
+        "name": "Puma Uproar",
+        "brand": "Puma",
+        "player": null,
+        "release_date": "2019-02-01",
+        "description": "Worn by players of all positions in the NBA",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 272,
+        "name": "Nike Adapt BB",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2019-02-01",
+        "description": "A must-have for sneakerheads who are into innovative tech!",
+        "shoe_type": "Low Top",
+        "retail_price": 349.99
+    },
+    {
+        "shoe_id": 273,
+        "name": "Under Armour Curry 6",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2019-01-01",
+        "description": "Perfect for quick guards looking for a supportive, lightweight shoe with great court feel",
+        "shoe_type": "Low Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 274,
+        "name": "Jordan Why Not Zero.2",
+        "brand": "Jordan",
+        "player": "Russell Westbrook",
+        "release_date": "2019-01-01",
+        "description": "Works best for explosive players looking for a supportive shoe",
+        "shoe_type": "Mid Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 275,
+        "name": "Nike Kyrie Flytrap 2",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2019-01-01",
+        "description": "Perfect for light and quick players who don't need a lot of impact protection",
+        "shoe_type": "Low Top",
+        "retail_price": 79.99
+    },
+    {
+        "shoe_id": 276,
+        "name": "Li-Ning Way of Wade 7",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2018-12-01",
+        "description": "Perfect for Dwyane Wade fans who play on clean courts",
+        "shoe_type": "Low Top",
+        "retail_price": 164.99
+    },
+    {
+        "shoe_id": 277,
+        "name": "Adidas Marquee Boost",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2018-12-01",
+        "description": "Works for a wide array of basketball players",
+        "shoe_type": "Mid Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 278,
+        "name": "Adidas N3XT L3V3L",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2018-12-01",
+        "description": "Works well for explosive players looking for a light shoe with a well-balanced, responsive cushioning setup",
+        "shoe_type": "High Top",
+        "retail_price": 179.99
+    },
+    {
+        "shoe_id": 279,
+        "name": "Adidas T-Mac Millenium",
+        "brand": "Adidas",
+        "player": "Tracy McGrady",
+        "release_date": "2018-12-01",
+        "description": "Perfect for T-Mac fans looking for a good all-around performer",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 280,
+        "name": "Adidas Pro Vision",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2018-12-01",
+        "description": "Best for price-conscious hoopers that play on clean courts only",
+        "shoe_type": "Mid Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 281,
+        "name": "Nike Kyrie 5",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2018-11-01",
+        "description": "Works best for quick guards who prefer court feel over impact protection",
+        "shoe_type": "High Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 282,
+        "name": "Puma Clyde Court Disrupt",
+        "brand": "Puma",
+        "player": null,
+        "release_date": "2018-10-01",
+        "description": "Great shoe if you are tired of Nike, Jordan, and Adidas",
+        "shoe_type": "Mid Top",
+        "retail_price": 120.0
+    },
+    {
+        "shoe_id": 283,
+        "name": "Air Jordan 33",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2018-10-01",
+        "description": "Perfect if you are into innovative tech and can afford the steep price",
+        "shoe_type": "High Top",
+        "retail_price": 174.99
+    },
+    {
+        "shoe_id": 284,
+        "name": "Adidas Harden Vol. 3",
+        "brand": "Adidas",
+        "player": "James Harden",
+        "release_date": "2018-10-01",
+        "description": "Perfect for players of all positions who value court feel and freedom of movement",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 285,
+        "name": "ANTA KT 4",
+        "brand": "ANTA",
+        "player": "Klay Thompson",
+        "release_date": "2018-10-01",
+        "description": "Best for players who enjoy knitted uppers and soft cushioning",
+        "shoe_type": "High Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 286,
+        "name": "Nike Lebron 16",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2018-09-01",
+        "description": "Especially recommended for explosive and powerful wing players.",
+        "shoe_type": "Mid Top",
+        "retail_price": 184.99
+    },
+    {
+        "shoe_id": 287,
+        "name": "Adidas Pro Bounce Low",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2018-09-01",
+        "description": "Great bang for the buck and should work well for positions 1-4.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 288,
+        "name": "Jordan Jumpman Hustle",
+        "brand": "Jordan",
+        "player": null,
+        "release_date": "2018-09-01",
+        "description": "Great all-around performer at a very fair price!",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 289,
+        "name": "Nike KD 11",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2018-08-01",
+        "description": "Works best as a casual sneaker but doesn't perform very well on a basketball court.",
+        "shoe_type": "Mid Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 290,
+        "name": "Nike Kobe AD Exodus",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2018-08-01",
+        "description": "Especially recommended for quicker guards",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 291,
+        "name": "Under Armour Curry 3Zero 2",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2018-08-01",
+        "description": "Solid performer at an affordable price",
+        "shoe_type": "High Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 292,
+        "name": "Under Armour HOVR Havoc Low",
+        "brand": "Under Armour",
+        "player": null,
+        "release_date": "2018-08-01",
+        "description": "Works best for quick guards in need of excellent traction",
+        "shoe_type": "Low Top",
+        "retail_price": 104.99
+    },
+    {
+        "shoe_id": 293,
+        "name": "Jordan Super.Fly MVP L",
+        "brand": "Jordan",
+        "player": null,
+        "release_date": "2018-08-01",
+        "description": "Works best for big guys who post up a lot",
+        "shoe_type": "High Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 294,
+        "name": "Nike Kyrie Low",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2018-07-01",
+        "description": "Perfect for guards who want maximum traction and don't need a lot of cushioning",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 295,
+        "name": "Adidas D Rose 9",
+        "brand": "Adidas",
+        "player": "Derrick Rose",
+        "release_date": "2018-07-01",
+        "description": "Great looking sneaker for players with wide feet",
+        "shoe_type": "High Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 296,
+        "name": "Nike PG 2.5",
+        "brand": "Nike",
+        "player": "Paul George",
+        "release_date": "2018-07-01",
+        "description": "Perfect if you are looking for an affordable all-around performer without any weaknesses.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 297,
+        "name": "Nike Hyperdunk X",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2018-07-01",
+        "description": "Works best on clean courts",
+        "shoe_type": "High Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 298,
+        "name": "Nike Hyperdunk X Low",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2018-07-01",
+        "description": "A solid performer that should work across a wide array of playing styles.",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 299,
+        "name": "Jordan Fly Lockdown",
+        "brand": "Jordan",
+        "player": null,
+        "release_date": "2018-05-01",
+        "description": "Good all-around performance basketball shoe at a fair price",
+        "shoe_type": "Mid Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 300,
+        "name": "Jordan CP3 XI",
+        "brand": "Jordan",
+        "player": "Chris Paul",
+        "release_date": "2018-04-01",
+        "description": "Perfect if you are looking for an affordable all-around performer with no weaknesses",
+        "shoe_type": "Mid Top",
+        "retail_price": 114.99
+    },
+    {
+        "shoe_id": 301,
+        "name": "Under Armour Curry 5",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2018-04-01",
+        "description": "Only for the biggest Curry fans",
+        "shoe_type": "Mid Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 302,
+        "name": "Adidas Crazylight Boost 2018",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2018-04-01",
+        "description": "Top performer that works best for quick guards",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 303,
+        "name": "Nike Zoom Kobe 1 Protro",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2018-04-01",
+        "description": "Perfect if you like old-school basketball sneakers",
+        "shoe_type": "High Top",
+        "retail_price": 174.99
+    },
+    {
+        "shoe_id": 304,
+        "name": "Nike Kobe AD NXT 360",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2018-04-01",
+        "description": "Best for players looking for flashy, cutting-edge performance shoes",
+        "shoe_type": "Low Top",
+        "retail_price": 199.99
+    },
+    {
+        "shoe_id": 305,
+        "name": "Nike Lebron Soldier 12",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2018-04-01",
+        "description": "An affordable performer that will work for almost all players",
+        "shoe_type": "High Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 306,
+        "name": "Nike Kyrie Flytrap",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2018-03-01",
+        "description": "Works well for wide-footers or if you are looking for a cheap outdoors shoe",
+        "shoe_type": "Mid Top",
+        "retail_price": 79.99
+    },
+    {
+        "shoe_id": 307,
+        "name": "Nike Lebron 15 Low",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2018-03-01",
+        "description": "Great shoe for explosive and heavier players",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 308,
+        "name": "Nike PG 2",
+        "brand": "Nike",
+        "player": "Paul George",
+        "release_date": "2018-02-01",
+        "description": "Affordable all-around performer without any weaknesses.",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 309,
+        "name": "Adidas Harden Vol. 2",
+        "brand": "Adidas",
+        "player": "James Harden",
+        "release_date": "2018-02-01",
+        "description": "Works especially well for bigger guards and heavier players",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 310,
+        "name": "Adidas Crazy BYW X",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2018-02-01",
+        "description": "Works best for players of all positions who have narrow feet",
+        "shoe_type": "High Top",
+        "retail_price": 179.99
+    },
+    {
+        "shoe_id": 311,
+        "name": "Jordan Why Not Zero.1",
+        "brand": "Jordan",
+        "player": "Russell Westbrook",
+        "release_date": "2018-01-01",
+        "description": "Best for explosive and powerful players",
+        "shoe_type": "Mid Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 312,
+        "name": "Nike Kyrie 4",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2017-12-01",
+        "description": "Affordable, well-rounded basketball shoe",
+        "shoe_type": "Mid Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 313,
+        "name": "Li-Ning Way of Wade 6",
+        "brand": "Li-Ning",
+        "player": "Dwyane Wade",
+        "release_date": "2017-12-01",
+        "description": "Great shoe for players with slightly wider feet",
+        "shoe_type": "Low Top",
+        "retail_price": 154.99
+    },
+    {
+        "shoe_id": 314,
+        "name": "Nike Kyrie S1",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2017-12-01",
+        "description": "For Kyrie fans who don't mind paying premium to get these from resellers",
+        "shoe_type": "Mid Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 315,
+        "name": "Under Armour Curry 4 Low",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2017-12-01",
+        "description": "Perfect shoe for quick guards",
+        "shoe_type": "Low Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 316,
+        "name": "Under Armour Curry 4",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2017-11-01",
+        "description": "Built for quickness and court feel",
+        "shoe_type": "High Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 317,
+        "name": "ANTA KT3",
+        "brand": "ANTA",
+        "player": "Klay Thompson",
+        "release_date": "2017-11-01",
+        "description": "Great performer that will work for all players",
+        "shoe_type": "High Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 318,
+        "name": "Nike Lebron 15",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2017-11-01",
+        "description": "Works extremely well for big guys that need a lot of impact protection.",
+        "shoe_type": "High Top",
+        "retail_price": 184.99
+    },
+    {
+        "shoe_id": 319,
+        "name": "Air Jordan 32",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2017-10-01",
+        "description": "All-around performer that will work for all types of basketball players",
+        "shoe_type": "Mid Top",
+        "retail_price": 184.99
+    },
+    {
+        "shoe_id": 320,
+        "name": "Adidas Dame 4",
+        "brand": "Adidas",
+        "player": "Damian Lillard",
+        "release_date": "2017-10-01",
+        "description": "Works best for quick guards looking for a low-to-the-ground, responsive and light basketball shoe.",
+        "shoe_type": "Low Top",
+        "retail_price": 114.99
+    },
+    {
+        "shoe_id": 321,
+        "name": "Air Jordan 32 Low",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2017-10-01",
+        "description": "Perfect for Jordan fans that prefer the freedom and flexibility of a low-top",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 322,
+        "name": "Adidas D Rose 8",
+        "brand": "Adidas",
+        "player": "Derrick Rose",
+        "release_date": "2017-09-01",
+        "description": "Perfect if you are looking for traditional high-top basketball shoes",
+        "shoe_type": "High Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 323,
+        "name": "Nike Hyperdunk Flyknit 2017",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2017-08-01",
+        "description": "Perfect shoe for guards who value court feel",
+        "shoe_type": "High Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 324,
+        "name": "Nike Kobe AD Mid",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2017-08-01",
+        "description": "Poor ventilation is problematic if your feet sweat a lot",
+        "shoe_type": "Mid Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 325,
+        "name": "Under Armour Drive 4",
+        "brand": "Under Armour",
+        "player": null,
+        "release_date": "2017-08-01",
+        "description": "Will work best for wide-footers",
+        "shoe_type": "High Top",
+        "retail_price": 114.99
+    },
+    {
+        "shoe_id": 326,
+        "name": "Jordan Super.Fly 2017",
+        "brand": "Jordan",
+        "player": null,
+        "release_date": "2017-08-01",
+        "description": "A durable and supportive shoe which will work great for bigger guys.",
+        "shoe_type": "Mid Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 327,
+        "name": "Adidas Crazy Explosive PrimeKnit 2017",
+        "brand": "Adidas",
+        "player": null,
+        "release_date": "2017-07-01",
+        "description": "Works for players of all positions",
+        "shoe_type": "High Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 328,
+        "name": "Nike Zoom Shift",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2017-06-01",
+        "description": "Budget option for guards with narrow feet",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 329,
+        "name": "Nike Lebron Soldier 11",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2017-06-01",
+        "description": "Recommended for bigger guys who look for impact protection and support",
+        "shoe_type": "Mid Top",
+        "retail_price": 129.99
+    },
+    {
+        "shoe_id": 330,
+        "name": "Nike KD 10",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2017-05-01",
+        "description": "Recommended if you value impact protection and do not rely on hard cuts",
+        "shoe_type": "Low Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 331,
+        "name": "Under Armour Curry 3Zero",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2017-05-01",
+        "description": "Curry 3Zero is a solid performer at a fair price",
+        "shoe_type": "Mid Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 332,
+        "name": "ANTA KT Outdoor 2 Low",
+        "brand": "ANTA",
+        "player": "Klay Thompson",
+        "release_date": "2017-05-01",
+        "description": "Works best as an affordable outdoor shoe",
+        "shoe_type": "Low Top",
+        "retail_price": 79.99
+    },
+    {
+        "shoe_id": 333,
+        "name": "Nike Kobe AD NXT",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2017-04-01",
+        "description": "Works best for quick guards",
+        "shoe_type": "Low Top",
+        "retail_price": 199.99
+    },
+    {
+        "shoe_id": 334,
+        "name": "Nike PG1",
+        "brand": "Nike",
+        "player": "Paul George",
+        "release_date": "2017-03-01",
+        "description": "Works best for guards with regular or narrow feet",
+        "shoe_type": "Low Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 335,
+        "name": "Nike KD 9 Elite",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2017-03-01",
+        "description": "Works best for players with narrow feet looking for soft cushioning",
+        "shoe_type": "High Top",
+        "retail_price": 149.99
+    },
+    {
+        "shoe_id": 336,
+        "name": "Jordan Ultra Fly 2",
+        "brand": "Jordan",
+        "player": null,
+        "release_date": "2017-03-01",
+        "description": "Perfect for players with narrow feet who like to ball outdoors.",
+        "shoe_type": "High Top",
+        "retail_price": 124.99
+    },
+    {
+        "shoe_id": 337,
+        "name": "Under Armour Charged Controller",
+        "brand": "Under Armour",
+        "player": null,
+        "release_date": "2017-02-01",
+        "description": "Low-cut basketball shoe designed for quick guards",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 338,
+        "name": "Jordan Melo M13",
+        "brand": "Jordan",
+        "player": "Carmelo Anthony",
+        "release_date": "2017-02-01",
+        "description": "Stationary post up players will like the comfortable cushioning",
+        "shoe_type": "Mid Top",
+        "retail_price": 134.99
+    },
+    {
+        "shoe_id": 339,
+        "name": "Nike Lebron 14",
+        "brand": "Nike",
+        "player": "Lebron James",
+        "release_date": "2017-01-01",
+        "description": "Best for bigger, heavier players with wide feet",
+        "shoe_type": "High Top",
+        "retail_price": 174.99
+    },
+    {
+        "shoe_id": 340,
+        "name": "Nike Zoom Rev 17",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2017-01-01",
+        "description": "Works best if you don't play on dusty courts",
+        "shoe_type": "Mid Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 341,
+        "name": "Nike Zoom Live 2017",
+        "brand": "Nike",
+        "player": null,
+        "release_date": "2017-01-01",
+        "description": "Affordable low-top that works best for guards",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 342,
+        "name": "Nike Mamba Instinct",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2017-01-01",
+        "description": "Meant for quick guards who want a light shoe",
+        "shoe_type": "Low Top",
+        "retail_price": 99.99
+    },
+    {
+        "shoe_id": 343,
+        "name": "Nike Kyrie 3",
+        "brand": "Nike",
+        "player": "Kyrie Irving",
+        "release_date": "2016-12-01",
+        "description": "Good choice for light and quick guards who value court feel over impact protection",
+        "shoe_type": "Mid Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 344,
+        "name": "Adidas Harden Volume 1",
+        "brand": "Adidas",
+        "player": "James Harden",
+        "release_date": "2016-12-01",
+        "description": "Great shoe for guards with wider feet",
+        "shoe_type": "Low Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 345,
+        "name": "Adidas Dame 3",
+        "brand": "Adidas",
+        "player": "Damian Lillard",
+        "release_date": "2016-12-01",
+        "description": "Affordable performer for players with slightly wider feet",
+        "shoe_type": "Mid Top",
+        "retail_price": 114.99
+    },
+    {
+        "shoe_id": 346,
+        "name": "Nike Kobe AD",
+        "brand": "Nike",
+        "player": "Kobe Bryant",
+        "release_date": "2016-11-01",
+        "description": "Best for guards who prefer firm cushioning setups",
+        "shoe_type": "Low Top",
+        "retail_price": 159.99
+    },
+    {
+        "shoe_id": 347,
+        "name": "ANTA KT 2",
+        "brand": "ANTA",
+        "player": "Klay Thompson",
+        "release_date": "2016-11-01",
+        "description": "Well-performing allrounder at an affordable price",
+        "shoe_type": "High Top",
+        "retail_price": 119.99
+    },
+    {
+        "shoe_id": 348,
+        "name": "BrandBlack Rare Metal",
+        "brand": "BrandBlack",
+        "player": null,
+        "release_date": "2016-10-01",
+        "description": "Perfect budget sneaker for guards with slightly wider feet.",
+        "shoe_type": "Mid Top",
+        "retail_price": 109.99
+    },
+    {
+        "shoe_id": 349,
+        "name": "Under Armour Curry 3",
+        "brand": "Under Armour",
+        "player": "Stephen Curry",
+        "release_date": "2016-10-01",
+        "description": "Perfect shoe for light and quick guards",
+        "shoe_type": "Mid Top",
+        "retail_price": 139.99
+    },
+    {
+        "shoe_id": 350,
+        "name": "Air Jordan 31",
+        "brand": "Jordan",
+        "player": "Michael Jordan",
+        "release_date": "2016-09-01",
+        "description": "Great shoe for Jordan fans with wider feet",
+        "shoe_type": "Mid Top",
+        "retail_price": 184.99
+    },
+    {
+        "shoe_id": 351,
+        "name": "Nike Zoom KD 9",
+        "brand": "Nike",
+        "player": "Kevin Durant",
+        "release_date": "2016-06-01",
+        "description": "Perfect for players who need maximum impact protection and cushioning",
+        "shoe_type": "Mid Top",
+        "retail_price": 149.99
+    }
+]

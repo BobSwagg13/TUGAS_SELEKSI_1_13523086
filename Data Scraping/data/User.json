@@ -1,0 +1,2219 @@
+[
+    {
+        "critic_id": 4
+    },
+    {
+        "critic_id": 11
+    },
+    {
+        "critic_id": 12
+    },
+    {
+        "critic_id": 13
+    },
+    {
+        "critic_id": 14
+    },
+    {
+        "critic_id": 15
+    },
+    {
+        "critic_id": 16
+    },
+    {
+        "critic_id": 17
+    },
+    {
+        "critic_id": 20
+    },
+    {
+        "critic_id": 21
+    },
+    {
+        "critic_id": 23
+    },
+    {
+        "critic_id": 24
+    },
+    {
+        "critic_id": 25
+    },
+    {
+        "critic_id": 26
+    },
+    {
+        "critic_id": 27
+    },
+    {
+        "critic_id": 28
+    },
+    {
+        "critic_id": 29
+    },
+    {
+        "critic_id": 30
+    },
+    {
+        "critic_id": 33
+    },
+    {
+        "critic_id": 34
+    },
+    {
+        "critic_id": 35
+    },
+    {
+        "critic_id": 36
+    },
+    {
+        "critic_id": 37
+    },
+    {
+        "critic_id": 38
+    },
+    {
+        "critic_id": 39
+    },
+    {
+        "critic_id": 40
+    },
+    {
+        "critic_id": 41
+    },
+    {
+        "critic_id": 42
+    },
+    {
+        "critic_id": 43
+    },
+    {
+        "critic_id": 45
+    },
+    {
+        "critic_id": 46
+    },
+    {
+        "critic_id": 47
+    },
+    {
+        "critic_id": 48
+    },
+    {
+        "critic_id": 49
+    },
+    {
+        "critic_id": 50
+    },
+    {
+        "critic_id": 51
+    },
+    {
+        "critic_id": 52
+    },
+    {
+        "critic_id": 53
+    },
+    {
+        "critic_id": 54
+    },
+    {
+        "critic_id": 55
+    },
+    {
+        "critic_id": 56
+    },
+    {
+        "critic_id": 57
+    },
+    {
+        "critic_id": 58
+    },
+    {
+        "critic_id": 59
+    },
+    {
+        "critic_id": 60
+    },
+    {
+        "critic_id": 61
+    },
+    {
+        "critic_id": 62
+    },
+    {
+        "critic_id": 63
+    },
+    {
+        "critic_id": 64
+    },
+    {
+        "critic_id": 65
+    },
+    {
+        "critic_id": 66
+    },
+    {
+        "critic_id": 67
+    },
+    {
+        "critic_id": 68
+    },
+    {
+        "critic_id": 69
+    },
+    {
+        "critic_id": 70
+    },
+    {
+        "critic_id": 71
+    },
+    {
+        "critic_id": 72
+    },
+    {
+        "critic_id": 73
+    },
+    {
+        "critic_id": 74
+    },
+    {
+        "critic_id": 75
+    },
+    {
+        "critic_id": 76
+    },
+    {
+        "critic_id": 77
+    },
+    {
+        "critic_id": 78
+    },
+    {
+        "critic_id": 79
+    },
+    {
+        "critic_id": 80
+    },
+    {
+        "critic_id": 81
+    },
+    {
+        "critic_id": 82
+    },
+    {
+        "critic_id": 83
+    },
+    {
+        "critic_id": 84
+    },
+    {
+        "critic_id": 86
+    },
+    {
+        "critic_id": 87
+    },
+    {
+        "critic_id": 88
+    },
+    {
+        "critic_id": 89
+    },
+    {
+        "critic_id": 90
+    },
+    {
+        "critic_id": 91
+    },
+    {
+        "critic_id": 92
+    },
+    {
+        "critic_id": 93
+    },
+    {
+        "critic_id": 94
+    },
+    {
+        "critic_id": 95
+    },
+    {
+        "critic_id": 96
+    },
+    {
+        "critic_id": 97
+    },
+    {
+        "critic_id": 98
+    },
+    {
+        "critic_id": 100
+    },
+    {
+        "critic_id": 101
+    },
+    {
+        "critic_id": 102
+    },
+    {
+        "critic_id": 104
+    },
+    {
+        "critic_id": 105
+    },
+    {
+        "critic_id": 106
+    },
+    {
+        "critic_id": 107
+    },
+    {
+        "critic_id": 108
+    },
+    {
+        "critic_id": 109
+    },
+    {
+        "critic_id": 110
+    },
+    {
+        "critic_id": 112
+    },
+    {
+        "critic_id": 113
+    },
+    {
+        "critic_id": 114
+    },
+    {
+        "critic_id": 115
+    },
+    {
+        "critic_id": 116
+    },
+    {
+        "critic_id": 117
+    },
+    {
+        "critic_id": 118
+    },
+    {
+        "critic_id": 119
+    },
+    {
+        "critic_id": 120
+    },
+    {
+        "critic_id": 121
+    },
+    {
+        "critic_id": 122
+    },
+    {
+        "critic_id": 123
+    },
+    {
+        "critic_id": 124
+    },
+    {
+        "critic_id": 125
+    },
+    {
+        "critic_id": 126
+    },
+    {
+        "critic_id": 127
+    },
+    {
+        "critic_id": 128
+    },
+    {
+        "critic_id": 129
+    },
+    {
+        "critic_id": 130
+    },
+    {
+        "critic_id": 131
+    },
+    {
+        "critic_id": 132
+    },
+    {
+        "critic_id": 133
+    },
+    {
+        "critic_id": 134
+    },
+    {
+        "critic_id": 135
+    },
+    {
+        "critic_id": 136
+    },
+    {
+        "critic_id": 137
+    },
+    {
+        "critic_id": 138
+    },
+    {
+        "critic_id": 139
+    },
+    {
+        "critic_id": 140
+    },
+    {
+        "critic_id": 141
+    },
+    {
+        "critic_id": 142
+    },
+    {
+        "critic_id": 143
+    },
+    {
+        "critic_id": 144
+    },
+    {
+        "critic_id": 145
+    },
+    {
+        "critic_id": 146
+    },
+    {
+        "critic_id": 147
+    },
+    {
+        "critic_id": 148
+    },
+    {
+        "critic_id": 149
+    },
+    {
+        "critic_id": 150
+    },
+    {
+        "critic_id": 151
+    },
+    {
+        "critic_id": 152
+    },
+    {
+        "critic_id": 153
+    },
+    {
+        "critic_id": 154
+    },
+    {
+        "critic_id": 155
+    },
+    {
+        "critic_id": 156
+    },
+    {
+        "critic_id": 157
+    },
+    {
+        "critic_id": 158
+    },
+    {
+        "critic_id": 159
+    },
+    {
+        "critic_id": 160
+    },
+    {
+        "critic_id": 161
+    },
+    {
+        "critic_id": 162
+    },
+    {
+        "critic_id": 163
+    },
+    {
+        "critic_id": 164
+    },
+    {
+        "critic_id": 165
+    },
+    {
+        "critic_id": 166
+    },
+    {
+        "critic_id": 167
+    },
+    {
+        "critic_id": 168
+    },
+    {
+        "critic_id": 169
+    },
+    {
+        "critic_id": 170
+    },
+    {
+        "critic_id": 171
+    },
+    {
+        "critic_id": 172
+    },
+    {
+        "critic_id": 173
+    },
+    {
+        "critic_id": 174
+    },
+    {
+        "critic_id": 175
+    },
+    {
+        "critic_id": 177
+    },
+    {
+        "critic_id": 178
+    },
+    {
+        "critic_id": 179
+    },
+    {
+        "critic_id": 180
+    },
+    {
+        "critic_id": 181
+    },
+    {
+        "critic_id": 182
+    },
+    {
+        "critic_id": 183
+    },
+    {
+        "critic_id": 184
+    },
+    {
+        "critic_id": 185
+    },
+    {
+        "critic_id": 186
+    },
+    {
+        "critic_id": 187
+    },
+    {
+        "critic_id": 188
+    },
+    {
+        "critic_id": 189
+    },
+    {
+        "critic_id": 190
+    },
+    {
+        "critic_id": 191
+    },
+    {
+        "critic_id": 192
+    },
+    {
+        "critic_id": 193
+    },
+    {
+        "critic_id": 194
+    },
+    {
+        "critic_id": 195
+    },
+    {
+        "critic_id": 196
+    },
+    {
+        "critic_id": 197
+    },
+    {
+        "critic_id": 198
+    },
+    {
+        "critic_id": 199
+    },
+    {
+        "critic_id": 200
+    },
+    {
+        "critic_id": 201
+    },
+    {
+        "critic_id": 202
+    },
+    {
+        "critic_id": 203
+    },
+    {
+        "critic_id": 204
+    },
+    {
+        "critic_id": 205
+    },
+    {
+        "critic_id": 206
+    },
+    {
+        "critic_id": 207
+    },
+    {
+        "critic_id": 208
+    },
+    {
+        "critic_id": 209
+    },
+    {
+        "critic_id": 210
+    },
+    {
+        "critic_id": 211
+    },
+    {
+        "critic_id": 212
+    },
+    {
+        "critic_id": 213
+    },
+    {
+        "critic_id": 214
+    },
+    {
+        "critic_id": 215
+    },
+    {
+        "critic_id": 216
+    },
+    {
+        "critic_id": 217
+    },
+    {
+        "critic_id": 218
+    },
+    {
+        "critic_id": 219
+    },
+    {
+        "critic_id": 220
+    },
+    {
+        "critic_id": 222
+    },
+    {
+        "critic_id": 223
+    },
+    {
+        "critic_id": 224
+    },
+    {
+        "critic_id": 225
+    },
+    {
+        "critic_id": 226
+    },
+    {
+        "critic_id": 227
+    },
+    {
+        "critic_id": 228
+    },
+    {
+        "critic_id": 229
+    },
+    {
+        "critic_id": 230
+    },
+    {
+        "critic_id": 231
+    },
+    {
+        "critic_id": 232
+    },
+    {
+        "critic_id": 233
+    },
+    {
+        "critic_id": 234
+    },
+    {
+        "critic_id": 235
+    },
+    {
+        "critic_id": 236
+    },
+    {
+        "critic_id": 237
+    },
+    {
+        "critic_id": 238
+    },
+    {
+        "critic_id": 239
+    },
+    {
+        "critic_id": 240
+    },
+    {
+        "critic_id": 241
+    },
+    {
+        "critic_id": 242
+    },
+    {
+        "critic_id": 243
+    },
+    {
+        "critic_id": 244
+    },
+    {
+        "critic_id": 245
+    },
+    {
+        "critic_id": 246
+    },
+    {
+        "critic_id": 247
+    },
+    {
+        "critic_id": 248
+    },
+    {
+        "critic_id": 249
+    },
+    {
+        "critic_id": 250
+    },
+    {
+        "critic_id": 251
+    },
+    {
+        "critic_id": 252
+    },
+    {
+        "critic_id": 253
+    },
+    {
+        "critic_id": 254
+    },
+    {
+        "critic_id": 255
+    },
+    {
+        "critic_id": 256
+    },
+    {
+        "critic_id": 257
+    },
+    {
+        "critic_id": 258
+    },
+    {
+        "critic_id": 259
+    },
+    {
+        "critic_id": 260
+    },
+    {
+        "critic_id": 261
+    },
+    {
+        "critic_id": 262
+    },
+    {
+        "critic_id": 263
+    },
+    {
+        "critic_id": 264
+    },
+    {
+        "critic_id": 265
+    },
+    {
+        "critic_id": 266
+    },
+    {
+        "critic_id": 267
+    },
+    {
+        "critic_id": 268
+    },
+    {
+        "critic_id": 269
+    },
+    {
+        "critic_id": 270
+    },
+    {
+        "critic_id": 271
+    },
+    {
+        "critic_id": 272
+    },
+    {
+        "critic_id": 273
+    },
+    {
+        "critic_id": 274
+    },
+    {
+        "critic_id": 275
+    },
+    {
+        "critic_id": 276
+    },
+    {
+        "critic_id": 277
+    },
+    {
+        "critic_id": 278
+    },
+    {
+        "critic_id": 279
+    },
+    {
+        "critic_id": 280
+    },
+    {
+        "critic_id": 281
+    },
+    {
+        "critic_id": 282
+    },
+    {
+        "critic_id": 283
+    },
+    {
+        "critic_id": 284
+    },
+    {
+        "critic_id": 285
+    },
+    {
+        "critic_id": 286
+    },
+    {
+        "critic_id": 287
+    },
+    {
+        "critic_id": 288
+    },
+    {
+        "critic_id": 289
+    },
+    {
+        "critic_id": 290
+    },
+    {
+        "critic_id": 291
+    },
+    {
+        "critic_id": 292
+    },
+    {
+        "critic_id": 294
+    },
+    {
+        "critic_id": 295
+    },
+    {
+        "critic_id": 296
+    },
+    {
+        "critic_id": 297
+    },
+    {
+        "critic_id": 298
+    },
+    {
+        "critic_id": 299
+    },
+    {
+        "critic_id": 300
+    },
+    {
+        "critic_id": 301
+    },
+    {
+        "critic_id": 302
+    },
+    {
+        "critic_id": 303
+    },
+    {
+        "critic_id": 304
+    },
+    {
+        "critic_id": 305
+    },
+    {
+        "critic_id": 306
+    },
+    {
+        "critic_id": 308
+    },
+    {
+        "critic_id": 309
+    },
+    {
+        "critic_id": 310
+    },
+    {
+        "critic_id": 311
+    },
+    {
+        "critic_id": 312
+    },
+    {
+        "critic_id": 313
+    },
+    {
+        "critic_id": 314
+    },
+    {
+        "critic_id": 315
+    },
+    {
+        "critic_id": 316
+    },
+    {
+        "critic_id": 317
+    },
+    {
+        "critic_id": 318
+    },
+    {
+        "critic_id": 319
+    },
+    {
+        "critic_id": 320
+    },
+    {
+        "critic_id": 322
+    },
+    {
+        "critic_id": 323
+    },
+    {
+        "critic_id": 324
+    },
+    {
+        "critic_id": 325
+    },
+    {
+        "critic_id": 326
+    },
+    {
+        "critic_id": 327
+    },
+    {
+        "critic_id": 328
+    },
+    {
+        "critic_id": 329
+    },
+    {
+        "critic_id": 330
+    },
+    {
+        "critic_id": 331
+    },
+    {
+        "critic_id": 332
+    },
+    {
+        "critic_id": 333
+    },
+    {
+        "critic_id": 334
+    },
+    {
+        "critic_id": 335
+    },
+    {
+        "critic_id": 336
+    },
+    {
+        "critic_id": 337
+    },
+    {
+        "critic_id": 338
+    },
+    {
+        "critic_id": 339
+    },
+    {
+        "critic_id": 340
+    },
+    {
+        "critic_id": 341
+    },
+    {
+        "critic_id": 342
+    },
+    {
+        "critic_id": 343
+    },
+    {
+        "critic_id": 344
+    },
+    {
+        "critic_id": 345
+    },
+    {
+        "critic_id": 346
+    },
+    {
+        "critic_id": 347
+    },
+    {
+        "critic_id": 349
+    },
+    {
+        "critic_id": 350
+    },
+    {
+        "critic_id": 351
+    },
+    {
+        "critic_id": 352
+    },
+    {
+        "critic_id": 353
+    },
+    {
+        "critic_id": 354
+    },
+    {
+        "critic_id": 355
+    },
+    {
+        "critic_id": 356
+    },
+    {
+        "critic_id": 357
+    },
+    {
+        "critic_id": 358
+    },
+    {
+        "critic_id": 359
+    },
+    {
+        "critic_id": 360
+    },
+    {
+        "critic_id": 361
+    },
+    {
+        "critic_id": 362
+    },
+    {
+        "critic_id": 363
+    },
+    {
+        "critic_id": 364
+    },
+    {
+        "critic_id": 366
+    },
+    {
+        "critic_id": 367
+    },
+    {
+        "critic_id": 368
+    },
+    {
+        "critic_id": 369
+    },
+    {
+        "critic_id": 370
+    },
+    {
+        "critic_id": 371
+    },
+    {
+        "critic_id": 372
+    },
+    {
+        "critic_id": 373
+    },
+    {
+        "critic_id": 374
+    },
+    {
+        "critic_id": 375
+    },
+    {
+        "critic_id": 376
+    },
+    {
+        "critic_id": 377
+    },
+    {
+        "critic_id": 378
+    },
+    {
+        "critic_id": 379
+    },
+    {
+        "critic_id": 380
+    },
+    {
+        "critic_id": 381
+    },
+    {
+        "critic_id": 383
+    },
+    {
+        "critic_id": 384
+    },
+    {
+        "critic_id": 385
+    },
+    {
+        "critic_id": 386
+    },
+    {
+        "critic_id": 387
+    },
+    {
+        "critic_id": 388
+    },
+    {
+        "critic_id": 389
+    },
+    {
+        "critic_id": 390
+    },
+    {
+        "critic_id": 391
+    },
+    {
+        "critic_id": 392
+    },
+    {
+        "critic_id": 393
+    },
+    {
+        "critic_id": 395
+    },
+    {
+        "critic_id": 396
+    },
+    {
+        "critic_id": 397
+    },
+    {
+        "critic_id": 398
+    },
+    {
+        "critic_id": 399
+    },
+    {
+        "critic_id": 400
+    },
+    {
+        "critic_id": 401
+    },
+    {
+        "critic_id": 402
+    },
+    {
+        "critic_id": 403
+    },
+    {
+        "critic_id": 404
+    },
+    {
+        "critic_id": 405
+    },
+    {
+        "critic_id": 406
+    },
+    {
+        "critic_id": 407
+    },
+    {
+        "critic_id": 408
+    },
+    {
+        "critic_id": 409
+    },
+    {
+        "critic_id": 410
+    },
+    {
+        "critic_id": 411
+    },
+    {
+        "critic_id": 412
+    },
+    {
+        "critic_id": 413
+    },
+    {
+        "critic_id": 414
+    },
+    {
+        "critic_id": 415
+    },
+    {
+        "critic_id": 416
+    },
+    {
+        "critic_id": 417
+    },
+    {
+        "critic_id": 418
+    },
+    {
+        "critic_id": 419
+    },
+    {
+        "critic_id": 420
+    },
+    {
+        "critic_id": 421
+    },
+    {
+        "critic_id": 422
+    },
+    {
+        "critic_id": 423
+    },
+    {
+        "critic_id": 424
+    },
+    {
+        "critic_id": 425
+    },
+    {
+        "critic_id": 426
+    },
+    {
+        "critic_id": 427
+    },
+    {
+        "critic_id": 428
+    },
+    {
+        "critic_id": 429
+    },
+    {
+        "critic_id": 430
+    },
+    {
+        "critic_id": 431
+    },
+    {
+        "critic_id": 432
+    },
+    {
+        "critic_id": 433
+    },
+    {
+        "critic_id": 434
+    },
+    {
+        "critic_id": 435
+    },
+    {
+        "critic_id": 436
+    },
+    {
+        "critic_id": 437
+    },
+    {
+        "critic_id": 438
+    },
+    {
+        "critic_id": 439
+    },
+    {
+        "critic_id": 440
+    },
+    {
+        "critic_id": 441
+    },
+    {
+        "critic_id": 442
+    },
+    {
+        "critic_id": 443
+    },
+    {
+        "critic_id": 444
+    },
+    {
+        "critic_id": 445
+    },
+    {
+        "critic_id": 446
+    },
+    {
+        "critic_id": 447
+    },
+    {
+        "critic_id": 448
+    },
+    {
+        "critic_id": 449
+    },
+    {
+        "critic_id": 450
+    },
+    {
+        "critic_id": 451
+    },
+    {
+        "critic_id": 452
+    },
+    {
+        "critic_id": 453
+    },
+    {
+        "critic_id": 454
+    },
+    {
+        "critic_id": 455
+    },
+    {
+        "critic_id": 456
+    },
+    {
+        "critic_id": 457
+    },
+    {
+        "critic_id": 458
+    },
+    {
+        "critic_id": 459
+    },
+    {
+        "critic_id": 460
+    },
+    {
+        "critic_id": 461
+    },
+    {
+        "critic_id": 462
+    },
+    {
+        "critic_id": 463
+    },
+    {
+        "critic_id": 464
+    },
+    {
+        "critic_id": 465
+    },
+    {
+        "critic_id": 466
+    },
+    {
+        "critic_id": 467
+    },
+    {
+        "critic_id": 468
+    },
+    {
+        "critic_id": 469
+    },
+    {
+        "critic_id": 470
+    },
+    {
+        "critic_id": 471
+    },
+    {
+        "critic_id": 472
+    },
+    {
+        "critic_id": 473
+    },
+    {
+        "critic_id": 474
+    },
+    {
+        "critic_id": 475
+    },
+    {
+        "critic_id": 476
+    },
+    {
+        "critic_id": 477
+    },
+    {
+        "critic_id": 478
+    },
+    {
+        "critic_id": 479
+    },
+    {
+        "critic_id": 480
+    },
+    {
+        "critic_id": 481
+    },
+    {
+        "critic_id": 482
+    },
+    {
+        "critic_id": 483
+    },
+    {
+        "critic_id": 484
+    },
+    {
+        "critic_id": 485
+    },
+    {
+        "critic_id": 487
+    },
+    {
+        "critic_id": 488
+    },
+    {
+        "critic_id": 489
+    },
+    {
+        "critic_id": 490
+    },
+    {
+        "critic_id": 491
+    },
+    {
+        "critic_id": 492
+    },
+    {
+        "critic_id": 493
+    },
+    {
+        "critic_id": 494
+    },
+    {
+        "critic_id": 495
+    },
+    {
+        "critic_id": 496
+    },
+    {
+        "critic_id": 497
+    },
+    {
+        "critic_id": 498
+    },
+    {
+        "critic_id": 499
+    },
+    {
+        "critic_id": 500
+    },
+    {
+        "critic_id": 501
+    },
+    {
+        "critic_id": 502
+    },
+    {
+        "critic_id": 503
+    },
+    {
+        "critic_id": 504
+    },
+    {
+        "critic_id": 505
+    },
+    {
+        "critic_id": 506
+    },
+    {
+        "critic_id": 507
+    },
+    {
+        "critic_id": 508
+    },
+    {
+        "critic_id": 509
+    },
+    {
+        "critic_id": 510
+    },
+    {
+        "critic_id": 511
+    },
+    {
+        "critic_id": 512
+    },
+    {
+        "critic_id": 513
+    },
+    {
+        "critic_id": 514
+    },
+    {
+        "critic_id": 515
+    },
+    {
+        "critic_id": 517
+    },
+    {
+        "critic_id": 518
+    },
+    {
+        "critic_id": 519
+    },
+    {
+        "critic_id": 520
+    },
+    {
+        "critic_id": 521
+    },
+    {
+        "critic_id": 523
+    },
+    {
+        "critic_id": 524
+    },
+    {
+        "critic_id": 525
+    },
+    {
+        "critic_id": 526
+    },
+    {
+        "critic_id": 527
+    },
+    {
+        "critic_id": 528
+    },
+    {
+        "critic_id": 529
+    },
+    {
+        "critic_id": 530
+    },
+    {
+        "critic_id": 531
+    },
+    {
+        "critic_id": 532
+    },
+    {
+        "critic_id": 533
+    },
+    {
+        "critic_id": 534
+    },
+    {
+        "critic_id": 535
+    },
+    {
+        "critic_id": 536
+    },
+    {
+        "critic_id": 537
+    },
+    {
+        "critic_id": 538
+    },
+    {
+        "critic_id": 539
+    },
+    {
+        "critic_id": 540
+    },
+    {
+        "critic_id": 541
+    },
+    {
+        "critic_id": 542
+    },
+    {
+        "critic_id": 543
+    },
+    {
+        "critic_id": 544
+    },
+    {
+        "critic_id": 545
+    },
+    {
+        "critic_id": 546
+    },
+    {
+        "critic_id": 547
+    },
+    {
+        "critic_id": 548
+    },
+    {
+        "critic_id": 549
+    },
+    {
+        "critic_id": 550
+    },
+    {
+        "critic_id": 551
+    },
+    {
+        "critic_id": 552
+    },
+    {
+        "critic_id": 553
+    },
+    {
+        "critic_id": 554
+    },
+    {
+        "critic_id": 555
+    },
+    {
+        "critic_id": 556
+    },
+    {
+        "critic_id": 557
+    },
+    {
+        "critic_id": 558
+    },
+    {
+        "critic_id": 559
+    },
+    {
+        "critic_id": 560
+    },
+    {
+        "critic_id": 561
+    },
+    {
+        "critic_id": 562
+    },
+    {
+        "critic_id": 563
+    },
+    {
+        "critic_id": 564
+    },
+    {
+        "critic_id": 565
+    },
+    {
+        "critic_id": 566
+    },
+    {
+        "critic_id": 567
+    },
+    {
+        "critic_id": 568
+    },
+    {
+        "critic_id": 569
+    },
+    {
+        "critic_id": 570
+    },
+    {
+        "critic_id": 571
+    },
+    {
+        "critic_id": 572
+    },
+    {
+        "critic_id": 573
+    },
+    {
+        "critic_id": 574
+    },
+    {
+        "critic_id": 575
+    },
+    {
+        "critic_id": 576
+    },
+    {
+        "critic_id": 577
+    },
+    {
+        "critic_id": 578
+    },
+    {
+        "critic_id": 579
+    },
+    {
+        "critic_id": 580
+    },
+    {
+        "critic_id": 581
+    },
+    {
+        "critic_id": 582
+    },
+    {
+        "critic_id": 583
+    },
+    {
+        "critic_id": 584
+    },
+    {
+        "critic_id": 585
+    },
+    {
+        "critic_id": 586
+    },
+    {
+        "critic_id": 587
+    },
+    {
+        "critic_id": 588
+    },
+    {
+        "critic_id": 589
+    },
+    {
+        "critic_id": 590
+    },
+    {
+        "critic_id": 591
+    },
+    {
+        "critic_id": 592
+    },
+    {
+        "critic_id": 593
+    },
+    {
+        "critic_id": 594
+    },
+    {
+        "critic_id": 595
+    },
+    {
+        "critic_id": 596
+    },
+    {
+        "critic_id": 597
+    },
+    {
+        "critic_id": 598
+    },
+    {
+        "critic_id": 599
+    },
+    {
+        "critic_id": 600
+    },
+    {
+        "critic_id": 601
+    },
+    {
+        "critic_id": 602
+    },
+    {
+        "critic_id": 603
+    },
+    {
+        "critic_id": 604
+    },
+    {
+        "critic_id": 605
+    },
+    {
+        "critic_id": 606
+    },
+    {
+        "critic_id": 607
+    },
+    {
+        "critic_id": 608
+    },
+    {
+        "critic_id": 609
+    },
+    {
+        "critic_id": 610
+    },
+    {
+        "critic_id": 611
+    },
+    {
+        "critic_id": 612
+    },
+    {
+        "critic_id": 613
+    },
+    {
+        "critic_id": 614
+    },
+    {
+        "critic_id": 616
+    },
+    {
+        "critic_id": 617
+    },
+    {
+        "critic_id": 618
+    },
+    {
+        "critic_id": 619
+    },
+    {
+        "critic_id": 620
+    },
+    {
+        "critic_id": 621
+    },
+    {
+        "critic_id": 622
+    },
+    {
+        "critic_id": 623
+    },
+    {
+        "critic_id": 624
+    },
+    {
+        "critic_id": 625
+    },
+    {
+        "critic_id": 626
+    },
+    {
+        "critic_id": 627
+    },
+    {
+        "critic_id": 628
+    },
+    {
+        "critic_id": 629
+    },
+    {
+        "critic_id": 630
+    },
+    {
+        "critic_id": 631
+    },
+    {
+        "critic_id": 632
+    },
+    {
+        "critic_id": 633
+    },
+    {
+        "critic_id": 634
+    },
+    {
+        "critic_id": 635
+    },
+    {
+        "critic_id": 636
+    },
+    {
+        "critic_id": 637
+    },
+    {
+        "critic_id": 638
+    },
+    {
+        "critic_id": 639
+    },
+    {
+        "critic_id": 640
+    },
+    {
+        "critic_id": 641
+    },
+    {
+        "critic_id": 642
+    },
+    {
+        "critic_id": 643
+    },
+    {
+        "critic_id": 644
+    },
+    {
+        "critic_id": 645
+    },
+    {
+        "critic_id": 646
+    },
+    {
+        "critic_id": 647
+    },
+    {
+        "critic_id": 648
+    },
+    {
+        "critic_id": 650
+    },
+    {
+        "critic_id": 651
+    },
+    {
+        "critic_id": 652
+    },
+    {
+        "critic_id": 653
+    },
+    {
+        "critic_id": 654
+    },
+    {
+        "critic_id": 655
+    },
+    {
+        "critic_id": 656
+    },
+    {
+        "critic_id": 657
+    },
+    {
+        "critic_id": 658
+    },
+    {
+        "critic_id": 659
+    },
+    {
+        "critic_id": 660
+    },
+    {
+        "critic_id": 661
+    },
+    {
+        "critic_id": 662
+    },
+    {
+        "critic_id": 663
+    },
+    {
+        "critic_id": 664
+    },
+    {
+        "critic_id": 665
+    },
+    {
+        "critic_id": 666
+    },
+    {
+        "critic_id": 667
+    },
+    {
+        "critic_id": 668
+    },
+    {
+        "critic_id": 669
+    },
+    {
+        "critic_id": 670
+    },
+    {
+        "critic_id": 671
+    },
+    {
+        "critic_id": 672
+    },
+    {
+        "critic_id": 673
+    },
+    {
+        "critic_id": 674
+    },
+    {
+        "critic_id": 675
+    },
+    {
+        "critic_id": 676
+    },
+    {
+        "critic_id": 677
+    },
+    {
+        "critic_id": 678
+    },
+    {
+        "critic_id": 679
+    },
+    {
+        "critic_id": 680
+    },
+    {
+        "critic_id": 681
+    },
+    {
+        "critic_id": 682
+    },
+    {
+        "critic_id": 683
+    },
+    {
+        "critic_id": 684
+    },
+    {
+        "critic_id": 685
+    },
+    {
+        "critic_id": 686
+    },
+    {
+        "critic_id": 687
+    },
+    {
+        "critic_id": 688
+    },
+    {
+        "critic_id": 689
+    },
+    {
+        "critic_id": 690
+    },
+    {
+        "critic_id": 691
+    },
+    {
+        "critic_id": 692
+    },
+    {
+        "critic_id": 693
+    },
+    {
+        "critic_id": 694
+    },
+    {
+        "critic_id": 695
+    },
+    {
+        "critic_id": 696
+    },
+    {
+        "critic_id": 697
+    },
+    {
+        "critic_id": 698
+    },
+    {
+        "critic_id": 699
+    },
+    {
+        "critic_id": 700
+    },
+    {
+        "critic_id": 702
+    },
+    {
+        "critic_id": 703
+    },
+    {
+        "critic_id": 704
+    },
+    {
+        "critic_id": 705
+    },
+    {
+        "critic_id": 706
+    },
+    {
+        "critic_id": 707
+    },
+    {
+        "critic_id": 708
+    },
+    {
+        "critic_id": 709
+    },
+    {
+        "critic_id": 710
+    },
+    {
+        "critic_id": 711
+    },
+    {
+        "critic_id": 712
+    },
+    {
+        "critic_id": 713
+    },
+    {
+        "critic_id": 714
+    },
+    {
+        "critic_id": 715
+    },
+    {
+        "critic_id": 716
+    },
+    {
+        "critic_id": 717
+    },
+    {
+        "critic_id": 718
+    },
+    {
+        "critic_id": 719
+    },
+    {
+        "critic_id": 720
+    },
+    {
+        "critic_id": 721
+    },
+    {
+        "critic_id": 722
+    },
+    {
+        "critic_id": 723
+    },
+    {
+        "critic_id": 724
+    },
+    {
+        "critic_id": 725
+    },
+    {
+        "critic_id": 726
+    },
+    {
+        "critic_id": 727
+    },
+    {
+        "critic_id": 728
+    },
+    {
+        "critic_id": 729
+    },
+    {
+        "critic_id": 730
+    },
+    {
+        "critic_id": 731
+    },
+    {
+        "critic_id": 732
+    },
+    {
+        "critic_id": 733
+    },
+    {
+        "critic_id": 734
+    },
+    {
+        "critic_id": 735
+    },
+    {
+        "critic_id": 736
+    },
+    {
+        "critic_id": 737
+    },
+    {
+        "critic_id": 738
+    },
+    {
+        "critic_id": 740
+    },
+    {
+        "critic_id": 741
+    },
+    {
+        "critic_id": 742
+    },
+    {
+        "critic_id": 743
+    },
+    {
+        "critic_id": 744
+    },
+    {
+        "critic_id": 745
+    },
+    {
+        "critic_id": 746
+    },
+    {
+        "critic_id": 747
+    },
+    {
+        "critic_id": 748
+    },
+    {
+        "critic_id": 749
+    },
+    {
+        "critic_id": 750
+    },
+    {
+        "critic_id": 751
+    },
+    {
+        "critic_id": 752
+    },
+    {
+        "critic_id": 753
+    },
+    {
+        "critic_id": 754
+    },
+    {
+        "critic_id": 756
+    },
+    {
+        "critic_id": 757
+    },
+    {
+        "critic_id": 758
+    },
+    {
+        "critic_id": 759
+    },
+    {
+        "critic_id": 760
+    },
+    {
+        "critic_id": 761
+    },
+    {
+        "critic_id": 762
+    },
+    {
+        "critic_id": 763
+    },
+    {
+        "critic_id": 764
+    },
+    {
+        "critic_id": 765
+    },
+    {
+        "critic_id": 766
+    },
+    {
+        "critic_id": 767
+    },
+    {
+        "critic_id": 768
+    },
+    {
+        "critic_id": 769
+    },
+    {
+        "critic_id": 770
+    },
+    {
+        "critic_id": 771
+    },
+    {
+        "critic_id": 773
+    },
+    {
+        "critic_id": 774
+    },
+    {
+        "critic_id": 775
+    },
+    {
+        "critic_id": 776
+    }
+]
