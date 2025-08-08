@@ -23,7 +23,6 @@ dwh_conn = psycopg2.connect(
     port=os.getenv("DW_DB_PORT")
 )
 
-# Example: Load dimShoe
 shoe_df = pd.read_sql_query("""
     SELECT DISTINCT shoe_id, name, brand, retail_price, release_date, player
     FROM public."Shoe"
@@ -53,14 +52,16 @@ Review_df = pd.read_sql_query("""
 
 
 
-# Insert new data
+# Insert to Dim_Shoe
 for _, row in shoe_df.iterrows():
     with dwh_conn.cursor() as cur:
         cur.execute("""
             INSERT INTO public."Dim_Shoe" (shoe_id, name, brand, retail_price, release_date, player)
             VALUES (%s, %s, %s, %s, %s, %s)
+            ON CONFLICT (shoe_id, name, brand, retail_price, release_date, player) DO NOTHING                  
         """, tuple(row))
 
+# Insert to Dim_Critic
 for _, row in Expert_df.iterrows():
     with dwh_conn.cursor() as cur:
         critic_id = row["critic_id"]
@@ -69,6 +70,7 @@ for _, row in Expert_df.iterrows():
         cur.execute("""
             INSERT INTO public."Dim_Critic" (critic_id, name, type)
             VALUES (%s, %s, %s)
+            ON CONFLICT (critic_id, name, type) DO NOTHING
         """, (critic_id, name, type))
 
 for _, row in User_df.iterrows():
@@ -79,8 +81,10 @@ for _, row in User_df.iterrows():
         cur.execute("""
             INSERT INTO public."Dim_Critic" (critic_id, name, type)
             VALUES (%s, %s, %s)
+            ON CONFLICT (critic_id, name, type) DO NOTHING
         """,  (critic_id, name, type))
 
+# Insert to Dim_Date
 for _, row in Review_df.iterrows():
     with dwh_conn.cursor() as cur:
         full_date = pd.to_datetime(row['full_date'])  
@@ -92,28 +96,51 @@ for _, row in Review_df.iterrows():
         cur.execute("""
             INSERT INTO public."Dim_Date" (full_date, year, quarter, month, day)
             VALUES (%s, %s, %s, %s, %s)
+            ON CONFLICT (full_date) DO NOTHING
         """, (full_date, year, quarter, month, day))
 
         cur.execute("""
             INSERT INTO public."Dim_ReviewType" (review_type)
             VALUES (%s)
+            ON CONFLICT (review_type) DO NOTHING
         """, (row['review_type'],))
 
+# Insert to Fact_Review
 for _, row in Review_df.iterrows():
     with dwh_conn.cursor() as cur:
-        cur.execute("""SELECT shoe_key FROM public."Dim_Shoe" WHERE shoe_id = %s""", (row["shoe_id"],))
+        name = shoe_df.loc[shoe_df['shoe_id'] == row['shoe_id'], 'name'].values[0]
+        brand = shoe_df.loc[shoe_df['shoe_id'] == row['shoe_id'], 'brand'].values[0]
+        price = shoe_df.loc[shoe_df['shoe_id'] == row['shoe_id'], 'retail_price'].values[0]
+        date = shoe_df.loc[shoe_df['shoe_id'] == row['shoe_id'], 'release_date'].values[0]
+        player = shoe_df.loc[shoe_df['shoe_id'] == row['shoe_id'], 'player'].values[0]
+ 
+        cur.execute("""
+                    SELECT shoe_key FROM public."Dim_Shoe" 
+                    WHERE shoe_id = %s AND name = %s AND brand = %s AND retail_price = %s AND release_date = %s AND player = %s """, (row["shoe_id"], name, brand, float(price), date, player))
         result = cur.fetchone()
         if not result:
             continue
         shoe_key = result[0]
 
-        cur.execute("""SELECT critic_key FROM public."Dim_Critic" WHERE critic_id = %s""", (row["critic_id"],))
+
+        name = critic_df.loc[critic_df['critic_id'] == row['critic_id'], 'name'].values[0]
+        type_series = Expert_df.loc[Expert_df['critic_id'] == row['critic_id'], 'critic_id']
+        if type_series.empty:
+            type = "user"
+        else:
+            type = "expert"
+
+        cur.execute("""
+                    SELECT critic_key FROM public."Dim_Critic" 
+                    WHERE critic_id = %s AND name = %s AND type = %s""", (row["critic_id"], name, type))
         result = cur.fetchone()
         if not result:
             continue
         critic_key = result[0]
 
-        cur.execute("""SELECT review_type_key FROM public."Dim_ReviewType" WHERE review_type = %s""", (row["review_type"],))
+        cur.execute("""
+                    SELECT review_type_key FROM public."Dim_ReviewType" 
+                    WHERE review_type = %s""", (row["review_type"],))
         result = cur.fetchone()
         if not result:
             continue
@@ -127,9 +154,11 @@ for _, row in Review_df.iterrows():
 
         cur.execute("""
             INSERT INTO public."Fact_Review" (
-                critic_key, shoe_key, review_type_key, date_key, rating
+                critic_key, shoe_key, review_type_key, date_key, rating, extracted_time
             )
-            VALUES (%s, %s, %s, %s, %s)
+            VALUES (%s, %s, %s, %s, %s, NOW())
+            ON CONFLICT (critic_key, shoe_key, review_type_key, date_key, rating)
+            DO NOTHING
         """, (critic_key, shoe_key, review_type_key, date_key, row["rating"]))
 
 

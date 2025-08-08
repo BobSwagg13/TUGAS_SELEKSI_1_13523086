@@ -52,13 +52,13 @@ colorway_id,shoe_id,colorway
 3,11,Purple / Green
 1,12,"""Milkyway"""
 2,12,"""Snowman"""
-1,13,Purple / Green
+1,13,Capri / Fire
 2,13,Yellow / Orange / Blue / Black
-3,13,Black / Steel
+3,13,"""Reign Rose"""
 4,13,Blue / Blue
-5,13,Forest Green / Classic Green / Metallic Gold
-6,13,"""Reign Rose"""
-7,13,Capri / Fire
+5,13,Purple / Green
+6,13,Black / Steel
+7,13,Forest Green / Classic Green / Metallic Gold
 1,14,Core Black / Clear Grey / Carbon
 2,14,Solar Red / Core Black / Cloud White
 3,14,Cloud White / Collegiate Green / Blue Burst
@@ -96,22 +96,22 @@ colorway_id,shoe_id,colorway
 4,19,White / Black / Metallic Gold
 5,19,White / Medium Ash / Hot Lava / Volt Glow
 6,19,Black / Dark Grey / Field Purple / Laser Fuchsia
-7,19,Blustery / Fireberry / Ghost Green / Diffused Blue / Armory Navy / Playful Pink
-8,19,Pink Foam / Pinksicle / Hyper Pink / Photo Blue
+7,19,Pink Foam / Pinksicle / Hyper Pink / Photo Blue
+8,19,Blustery / Fireberry / Ghost Green / Diffused Blue / Armory Navy / Playful Pink
 9,19,Soft Pearl / Vivid Purple / Court Purple / Hyper Turquoise
 10,19,White / Green Glow / Pink Foam / Baltic Blue
 1,20,Coconut Milk / Pink Foam / Apricot Agate
 2,20,White / Astronomy Blue / Hemp / Vintage Green
-3,20,Black / Phantom-Light / Smoke Grey / Light Lemon Twist
-4,20,Blue Beyond / Celestial Gold / Apricot Agate / Hyper Pink
-5,20,Bold Berry / Light Lemon Twist / Dark Raisin / Baltic Blue
-6,20,Rapid Teal / Black / Ale Brown / University Red
-7,20,Summit White / Glacier Blue / Mint Foam / Hydrangeas / Light Chocolate
+3,20,Blue Beyond / Celestial Gold / Apricot Agate / Hyper Pink
+4,20,Black / Phantom-Light / Smoke Grey / Light Lemon Twist
+5,20,Rapid Teal / Black / Ale Brown / University Red
+6,20,Summit White / Glacier Blue / Mint Foam / Hydrangeas / Light Chocolate
+7,20,Bold Berry / Light Lemon Twist / Dark Raisin / Baltic Blue
 8,20,Light Lemon Twist / Total Orange / Light Army
 9,20,Soft Yellow / University Gold / Dusty Cactus / Obsidian
 10,20,University Red / Black / Jade Horizon / Celestial Gold
-11,20,White / Game Royal / University Red / University Blue
-12,20,Black / Coconut Milk / Black
+11,20,Black / Coconut Milk / Black
+12,20,White / Game Royal / University Red / University Blue
 1,21,Puma Red / Orange Glow / Fluorescent Orange / Purple Glimmer
 2,21,Deep Orchid / Poison Pink
 3,21,Pink Alert / Yellow Alert
@@ -140,15 +140,15 @@ colorway_id,shoe_id,colorway
 7,25,Silver Metallic / Core Black / Lucid Blue
 8,25,Core Black / Cloud White / Cobalt Blue
 9,25,Silver Pebble / Legend Ivy / Impact Orange
-1,26,Cyber/ Sundial / Lightning / Bright Mandarin
-2,26,Black / Black / Black
-3,26,White / Pure Platinum / Black
-4,26,Dusty Cactus / Royal Pulse / Green Frost / White
-5,26,Hyper Violet / Green Strike / Bold Berry / Black
-6,26,Lightening / Hyprpnk / Uniblu
-7,26,Lime Blast / Hyper Pink / Pure Platinum / Metallic Silver
-8,26,Light Khaki / Alabaster / Total Orange / White
-9,26,Black Raspberry / Hot Punch / Hot Fuchsia / Aster Pink
+1,26,Black / Black / Black
+2,26,Cyber/ Sundial / Lightning / Bright Mandarin
+3,26,Dusty Cactus / Royal Pulse / Green Frost / White
+4,26,Hyper Violet / Green Strike / Bold Berry / Black
+5,26,Lightening / Hyprpnk / Uniblu
+6,26,Lime Blast / Hyper Pink / Pure Platinum / Metallic Silver
+7,26,Light Khaki / Alabaster / Total Orange / White
+8,26,Black Raspberry / Hot Punch / Hot Fuchsia / Aster Pink
+9,26,White / Pure Platinum / Black
 10,26,Black / University Red / Team Red
 11,26,Dusty Cactus / Obsidian / Bright Crimson
 12,26,Smoke Grey / Wolf Grey / Dark Smoke Grey / Stadium Green
@@ -156,41 +156,41 @@ colorway_id,shoe_id,colorway
 1,27,Team Red / White
 2,27,Blue / Blue
 3,27,Limelight / Azure / Dragon Berry
-4,27,NB Navy / Heron Blue / Copper
+4,27,Mercury Red / White / Gold
 5,27,Lilac Glo / Sky Blue / Pixel Green
-6,27,Mercury Red / White / Gold
-7,27,White / Quartz Grey
-8,27,Passion Fruit / Lilac Glo / Violet Crush
-9,27,Ultra Pink / Real Pink / Lilac Glo
-10,27,Black / White / Blast Red
-11,27,Bleached Lime Glo / Pixel Green  /Hi-Lite
-12,27,Triple Black
-13,27,Team Navy / White
-1,28,Black / Yellow
-2,28,Brown / Orange
-3,28,"""Pass the Torch"""
-4,28,Purple / Pink
-5,28,Blue / Black
-6,28,Red/Grey/White
-7,28,Multi / Multi / Multi
-8,28,"""Celestial Guardian"""
-9,28,Black / Pink / Volt
-10,28,Blue / Orange / White
-1,29,White / Grey Fog / Siren Red / Black
-2,29,White / Volt Glow / Green Glow / Black
-3,29,Pink Prime / Black/Hyper Jade / University Gold
-4,29,Metallic / White
-5,29,Vapour Green / Cone / Psychic Purple / Hyper Jade
-6,29,Black / Hyper Jade / Pink Prime / Hyper Grape
-7,29,Purple Comet / Midnight Navy / Hydrogen Blue / Hot Punch
-8,29,Red / Black / White
-9,29,Black / White / Red
-1,30,White / Black / University Red
-2,30,Gym Red / White
-3,30,"""University"""
-4,30,White / Black / Dark Powder Blue
+6,27,Team Navy / White
+7,27,Triple Black
+8,27,White / Quartz Grey
+9,27,Passion Fruit / Lilac Glo / Violet Crush
+10,27,Ultra Pink / Real Pink / Lilac Glo
+11,27,Black / White / Blast Red
+12,27,Bleached Lime Glo / Pixel Green  /Hi-Lite
+13,27,NB Navy / Heron Blue / Copper
+1,28,Blue / Orange / White
+2,28,"""Pass the Torch"""
+3,28,Purple / Pink
+4,28,Black / Yellow
+5,28,Brown / Orange
+6,28,Blue / Black
+7,28,Red/Grey/White
+8,28,Multi / Multi / Multi
+9,28,"""Celestial Guardian"""
+10,28,Black / Pink / Volt
+1,29,White / Volt Glow / Green Glow / Black
+2,29,Pink Prime / Black/Hyper Jade / University Gold
+3,29,Black / White / Red
+4,29,White / Grey Fog / Siren Red / Black
+5,29,Metallic / White
+6,29,Vapour Green / Cone / Psychic Purple / Hyper Jade
+7,29,Black / Hyper Jade / Pink Prime / Hyper Grape
+8,29,Purple Comet / Midnight Navy / Hydrogen Blue / Hot Punch
+9,29,Red / Black / White
+1,30,Gym Red / White
+2,30,"""University"""
+3,30,White / Black / Dark Powder Blue
+4,30,Black / Sail
 5,30,Sail / Black / Game Royal
-6,30,Black / Sail
+6,30,White / Black / University Red
 1,31,Silver Pebble / Core Black / Wonder Beige
 2,31,Metal Grey / Dove Grey / Cloud White
 3,31,Red / Black / Orange Glow
@@ -199,23 +199,23 @@ colorway_id,shoe_id,colorway
 1,32,Light Wild Mango / Black/Laser Orange / Action Green
 2,32,Bold Berry / Hyper Violet  / Black / Green Strike
 3,32,Black / University Red
-4,32,Dusty Cactus / Bright Crimson / Obsidian
-5,32,Blue / Yellow / Lightning
-6,32,Green / Black / Grey / Black
-7,32,Coconut Milk / Sail / University Red / Aster Pink
-8,32,White / Wolf Grey / Black
+4,32,Blue / Yellow / Lightning
+5,32,Green / Black / Grey / Black
+6,32,Coconut Milk / Sail / University Red / Aster Pink
+7,32,White / Wolf Grey / Black
+8,32,Dusty Cactus / Bright Crimson / Obsidian
 9,32,Ashen Slate / Armory Navy / Glacier Blue / Laser Orange
-1,33,Multi-Color / Multi-Color
-2,33,Beige / White
-3,33,Halo Gray / Black
-4,33,Black / Hyper Green / Black
+1,33,Black / Hyper Green / Black
+2,33,White / Black
+3,33,Multi-Color / Multi-Color
+4,33,Beige / White
 5,33,Stream / Metallic Gold / Metallic Silver
-6,33,Red / Ares Red
+6,33,Halo Gray / Black
 7,33,Black / Team Royal / Taxi
 8,33,White / Midnight Navy / Red
 9,33,Midnight Navy / White / Red
 10,33,Purple / Pink
-11,33,White / Black
+11,33,Red / Ares Red
 1,34,"""305"""
 2,34,"""Avocado"""
 3,34,"""Announcement"""
@@ -228,44 +228,44 @@ colorway_id,shoe_id,colorway
 4,35,"""Chemistry"""
 5,35,"""Satori"""
 1,36,White Hot
-2,36,"""Blossom"""
-3,36,"""Overtown"""
-4,36,"""Liberty"""
-5,36,"""Sunshine State"""
-6,36,"""Gold & Purple"""
-7,36,"""Announcement"""
-8,36,"""Hall of Fame"""
+2,36,"""Overtown"""
+3,36,"""Liberty"""
+4,36,"""Sunshine State"""
+5,36,"""Gold & Purple"""
+6,36,"""Announcement"""
+7,36,"""Hall of Fame"""
+8,36,"""Blossom"""
 9,36,"""Team No Sleep"""
 1,37,Aurora Black / Solar Red / Lucid Blue
 2,37,Cloud White / Silver Metallic / Cloud White
 3,37,Acid Orange / Core Black / Orange Tint
-4,37,Purple Burst / Core Black / Lucid Lemon
-5,37,White / Screaming Green / Lucid Blue
-6,37,Lucid Red / Solar Green / Vivid Green
-7,37,Lucid Red / Core Black / Screaming Green
-8,37,Cloud White / Solar Red / Team Solar Green
-9,37,Lucid Lemon / Core Black / Silver Metallic
-10,37,Lucid Lime / Solar Red / Lucid Blue
+4,37,Lucid Lime / Solar Red / Lucid Blue
+5,37,Lucid Red / Core Black / Screaming Green
+6,37,White / Screaming Green / Lucid Blue
+7,37,Cloud White / Solar Red / Team Solar Green
+8,37,Purple Burst / Core Black / Lucid Lemon
+9,37,Lucid Red / Solar Green / Vivid Green
+10,37,Lucid Lemon / Core Black / Silver Metallic
 11,37,Cobalt Blue / Core Black / Blue Spark
 12,37,Team Colleg Gold 2 / Core Black / Cloud White
 13,37,Lucid Blue / Core Black / Cloud White
 14,37,Core Black / Cloud White / Matte Silver
 15,37,Team Power Red 2 / Core Black / Cloud White
 1,38,Apple Green / White / Yellow Strike
-2,38,Coconut Milk / Baroque Brown / Light Bone / Sail
-3,38,Citron Tint / Alabaster / Laser Fuchsia / Royal Pulse
-4,38,Pink Foam / Elemental Pink / Black
-5,38,White / Pinksicle
-6,38,Light Smoke Grey / Fresh Mint / Vapour Green
-7,38,"""White Noise"""
+2,38,Citron Tint / Alabaster / Laser Fuchsia / Royal Pulse
+3,38,Coconut Milk / Baroque Brown / Light Bone / Sail
+4,38,"""White Noise"""
+5,38,Black / Grey / Black
+6,38,Pink Foam / Elemental Pink / Black
+7,38,Light Smoke Grey / Fresh Mint / Vapour Green
 8,38,Iron Grey / Hot Punch / Sail
-9,38,Apricot Agate / Washed Coral / Washed Teal / Light Bone
-10,38,Baltic Blue / Light Crimson / Glacier Blue / White
-11,38,White / Black / Photon Dust / Volt
-12,38,Black / Grey / Black
-13,38,Rattan / Metallic Gold / Khaki / Sail
-14,38,Wolf Grey / Smoke Grey / Volt / Black
-15,38,Light Bone / Calypso
+9,38,Rattan / Metallic Gold / Khaki / Sail
+10,38,White / Black / Photon Dust / Volt
+11,38,Wolf Grey / Smoke Grey / Volt / Black
+12,38,Apricot Agate / Washed Coral / Washed Teal / Light Bone
+13,38,Baltic Blue / Light Crimson / Glacier Blue / White
+14,38,Light Bone / Calypso
+15,38,White / Pinksicle
 16,38,Gorge Green / Volt / White
 17,38,Football Grey / Glacier Blue / Astronomy Blue / White
 18,38,Game Royal / Deep Royal Blue / Photo Blue / White
@@ -316,33 +316,33 @@ colorway_id,shoe_id,colorway
 2,45,"""Light Bone"""
 3,45,Black / Sail / Dark Ash
 1,46,Neo Flame / Airyteal / Blaze Orange
-2,46,Black / Gold
-3,46,Slate Grey / Angora
-4,46,Team Sky Blue / Sea Salt
-5,46,HI-Pink / Black / Neo Flame
-6,46,White / Black / Red
-7,46,Purple Punch / Signal Pink
-1,47,Royal Blue / Opti Yellow / Black / Fuchsia / Vivid Purple / Guava Ice
-2,47,Coconut Milk / Viotech / Doll / Light Laser Orange
-3,47,Light Iron Ore / Black / Sail / Metallic Gold
-4,47,"""USA"""
-5,47,Barely Volt / Rosa Hyper / Laranja Total / Azul Baltic
+2,46,Purple Punch / Signal Pink
+3,46,Black / Gold
+4,46,Slate Grey / Angora
+5,46,Team Sky Blue / Sea Salt
+6,46,HI-Pink / Black / Neo Flame
+7,46,White / Black / Red
+1,47,Light Iron Ore / Black / Sail / Metallic Gold
+2,47,Royal Blue / Opti Yellow / Black / Fuchsia / Vivid Purple / Guava Ice
+3,47,"""USA"""
+4,47,Barely Volt / Rosa Hyper / Laranja Total / Azul Baltic
+5,47,Safety Orange / Sundial / Total Orange
 6,47,Wolf Grey / White / Black
 7,47,Black / Vintage Green / Night Forest / Bright Crimson
-8,47,Red / Black / Black
-9,47,Dusty Amethyst / Hydrangeas / Amethyst Tint
-10,47,Safety Orange / Sundial / Total Orange
-11,47,White / Black / Game Royal / White
-12,47,University Gold / Safety Orange / University Blue / Black
-13,47,Pink Foam / Beyond Pink
-14,47,University Red / White / University Red
-15,47,Aquarius Blue / Glacier Blue / White / Metallic Silver
-16,47,Black / Atomic Violet / Hyper Grape / White
-17,47,Sesame / Rough Green / Monarch / University Gold
+8,47,Dusty Amethyst / Hydrangeas / Amethyst Tint
+9,47,White / Black / Game Royal / White
+10,47,University Gold / Safety Orange / University Blue / Black
+11,47,Coconut Milk / Viotech / Doll / Light Laser Orange
+12,47,Pink Foam / Beyond Pink
+13,47,University Red / White / University Red
+14,47,Aquarius Blue / Glacier Blue / White / Metallic Silver
+15,47,Black / Atomic Violet / Hyper Grape / White
+16,47,Sesame / Rough Green / Monarch / University Gold
+17,47,Red / Black / Black
 18,47,Black / White / Black
 19,47,Navy / White / Black
-1,48,Red / Core Black / Silver Metallic
-2,48,Feather Grey / Ivory / Core Black
+1,48,Feather Grey / Ivory / Core Black
+2,48,Red / Core Black / Silver Metallic
 3,48,Purple Burst / Core Black / Silver Metallic
 4,48,Core Black / Cloud White / Cobalt Blue
 5,48,Hazy Copper / Core Black / Lucid Lemon
@@ -371,10 +371,10 @@ colorway_id,shoe_id,colorway
 1,52,"""Rattlesnake"""
 2,52,Cargo Khaki / Phantom
 3,52,White / Magic Ember
-4,52,Purple / Yellow / Purple
-5,52,Sunrise
-6,52,Sesame / Black / Orange
-7,52,Orange / Court Purple / Taupe Grey
+4,52,Sunrise
+5,52,Purple / Yellow / Purple
+6,52,Orange / Court Purple / Taupe Grey
+7,52,Sesame / Black / Orange
 8,52,White / Black
 9,52,Blue / Multi-Color
 10,52,Barely Grey / Metallic Silver / Moon Particle / Pale Ivory
@@ -406,9 +406,9 @@ colorway_id,shoe_id,colorway
 4,55,Siren Red / Summit White / Atomic Pink / Black
 5,55,Washed Coral / Dusty Cactus / Metallic Silver / Chalk
 6,55,Sail / Light Bone / Metallic Silver / Smoke Grey
-7,55,White / Sport Red / Obsidian
-8,55,Ashen Slate / Baltic Blue / Metallic Gold / Football Grey
-9,55,Volt / Black
+7,55,Volt / Black
+8,55,White / Sport Red / Obsidian
+9,55,Ashen Slate / Baltic Blue / Metallic Gold / Football Grey
 10,55,Black / Iron Grey / Dark Smoke Grey / White
 11,55,Sea Glass / Metallic Gold / University Red / Oil Green
 12,55,White / Metallic Silver / Light Lemon Twist / Glacier Blue
@@ -434,40 +434,40 @@ colorway_id,shoe_id,colorway
 6,57,Lucid Lemon / Cloud White / Silver Green
 7,57,Core Black / Solar Red / Silver Metallic
 1,58,White / Photon Dust
-2,58,Sea Glass / Olive Aura / Light Wild Mango / Oil Green
-3,58,Glacier Blue / White / Photon Dust / Metallic Silver
-4,58,Barely Green / Washed Coral / Dusty Cactus / Black
-5,58,Summit White / Picante Red / Football Grey / Metallic Silver
-6,58,Black / Anthracite / Green Strike / Barely Volt
-7,58,Light Smoke Grey / Dark Grey / Photon Dust
-8,58,Black / Alabster
-9,58,White / Black / Black
-10,58,Photon Dust / Light Crimson / White / Black
+2,58,Black / White
+3,58,Black / University Red / Iron Grey / White
+4,58,White / Black / Black
+5,58,Photon Dust / Light Crimson / White / Black
+6,58,Glacier Blue / White / Photon Dust / Metallic Silver
+7,58,Barely Green / Washed Coral / Dusty Cactus / Black
+8,58,Summit White / Picante Red / Football Grey / Metallic Silver
+9,58,Black / Anthracite / Green Strike / Barely Volt
+10,58,Light Smoke Grey / Dark Grey / Photon Dust
 11,58,Sail / Light Lemon Twist / White / Smoke Grey
 12,58,White / Black
-13,58,Black / White
-14,58,Oil Green / Spring Green / Light Lemon Twist / Sail
-15,58,White / Sport Red / Obsidian
-16,58,Iron Grey / Baltic Blue / Football Grey
-17,58,Black / University Red / Iron Grey / White
-18,58,Light Wild Mango / Hot Fuchsia / Plum Dust / White
-19,58,Coconut Milk / Mineral / Light Orewood Brown / Jade Ice
-20,58,Volt / Barely Volt / Anthracite
-21,58,University Red / Gym Red / White
-22,58,Game Royal / Deep Royal Blue / White
-23,58,College Navy / Dark Obsidian / Thunder Blue / White
-24,58,Court Purple / White
+13,58,Oil Green / Spring Green / Light Lemon Twist / Sail
+14,58,White / Sport Red / Obsidian
+15,58,Iron Grey / Baltic Blue / Football Grey
+16,58,Light Wild Mango / Hot Fuchsia / Plum Dust / White
+17,58,Sea Glass / Olive Aura / Light Wild Mango / Oil Green
+18,58,Coconut Milk / Mineral / Light Orewood Brown / Jade Ice
+19,58,Volt / Barely Volt / Anthracite
+20,58,University Red / Gym Red / White
+21,58,Game Royal / Deep Royal Blue / White
+22,58,College Navy / Dark Obsidian / Thunder Blue / White
+23,58,Court Purple / White
+24,58,Black / Alabster
 25,58,Photon Dust / Pink Blast / Dynamic Turquoise / White
-1,59,White / Black / Legend Blue
-2,59,White / Arctic Punch / Black
-3,59,Black / White / Anthracite / Habanero Red
-4,59,Black / Anthracite / Sail / Taxi
-5,59,White / Black / University Red
-6,59,White / Pink / White
-7,59,Phantom / Sand Drift / Sail / Game Royal
-8,59,Stone Blue / Mystic Navy / Midnight Navy / Bleached Coral
-9,59,White / Sail / Black / Gym Red
-10,59,Black / Anthracite / Coconut Milk / Cyber
+1,59,Black / White / Anthracite / Habanero Red
+2,59,Black / Anthracite / Sail / Taxi
+3,59,White / Black / University Red
+4,59,White / Pink / White
+5,59,Phantom / Sand Drift / Sail / Game Royal
+6,59,White / Arctic Punch / Black
+7,59,Stone Blue / Mystic Navy / Midnight Navy / Bleached Coral
+8,59,White / Sail / Black / Gym Red
+9,59,Black / Anthracite / Coconut Milk / Cyber
+10,59,White / Black / Legend Blue
 1,60,Core Black / Cloud White / Green Spark
 2,60,Cloud White / Core Black / Blue Burst
 3,60,Semi Spark / Core Black / Cloud White
@@ -509,19 +509,19 @@ colorway_id,shoe_id,colorway
 6,66,Kelly Green / Palm Leaf
 7,66,Optic White / Purple Fade / Black
 8,66,Quartz grey / bleached lime glo
-1,67,Photo Blue / Vapor Green / Laser Orange / Laser Fuchsia
-2,67,"""Nobility"""
-3,67,Violet Dust / Melon Tint / Purple Cosmos
+1,67,"""Nobility"""
+2,67,Violet Dust / Melon Tint / Purple Cosmos
+3,67,White / Black / Bicoastal / Photon Dust
 4,67,Azul Glacier / Verde Stadium / Rosa Beyond / Coconut Milk
 5,67,Oil Green / Volt / Volt
 6,67,Ember Glow / Elemental Gold / Campfire Orange
 7,67,Light Bone / Coconut Milk / Dark Russet / Campfire Orange
-8,67,White / Black / Bicoastal / Photon Dust
-9,67,Black / Iron Grey / Oil Green / Metallic Pewter
-10,67,Barely Grape / Lilac Bloom / Summit White / Light Armory Blue
-11,67,Black/Particle Grey/Wolf Grey/Pink Rise
-12,67,Pink / Multi Color
-13,67,Teal / Purple / Silver
+8,67,Black / Iron Grey / Oil Green / Metallic Pewter
+9,67,Barely Grape / Lilac Bloom / Summit White / Light Armory Blue
+10,67,Black/Particle Grey/Wolf Grey/Pink Rise
+11,67,Pink / Multi Color
+12,67,Teal / Purple / Silver
+13,67,Photo Blue / Vapor Green / Laser Orange / Laser Fuchsia
 14,67,Cool Grey
 15,67,Melon Tint / Light Bone / Saturn Gold
 16,67,Bright Crimson / Gym Red
@@ -560,13 +560,13 @@ colorway_id,shoe_id,colorway
 8,70,"""SANY"""
 1,71,Navy / White
 2,71,Light Iron Ore / Gum
-3,71,Midnight Navy / University Gold / Light Smoke Grey / Hyper Royal
-4,71,Barely Grape / Hyper Violet / Light Bone / Obsidian
-5,71,White / Dusty Cactus / Obsidian
-6,71,Black / Apricot Agate  /White
-7,71,Light Bone / Vapor Green / Swan / Anthracite
-8,71,Black / Black / White
-9,71,Game Royal / Game Royal / White
+3,71,Game Royal / Game Royal / White
+4,71,Midnight Navy / University Gold / Light Smoke Grey / Hyper Royal
+5,71,Barely Grape / Hyper Violet / Light Bone / Obsidian
+6,71,White / Dusty Cactus / Obsidian
+7,71,Black / Apricot Agate  /White
+8,71,Light Bone / Vapor Green / Swan / Anthracite
+9,71,Black / Black / White
 10,71,Branco / Bright Mandarin / Rosa Aster
 11,71,Black / University Red / White
 12,71,Multi Color / Multi Color / Baltic Blue
@@ -599,8 +599,8 @@ colorway_id,shoe_id,colorway
 4,73,Lucid Cyan / True Blue / Lucid Cyan
 5,73,Core Black / Solar Red / Core Black
 6,73,Wonder Beige / Grey Five / Wonder White
-7,73,Wonder Beige / Grey Five / Wonder White
-8,73,Core Black / Cloud White / Carbon
+7,73,Core Black / Cloud White / Carbon
+8,73,Wonder Beige / Grey Five / Wonder White
 9,73,Cloud White / Silver Metallic / Crystal White
 10,73,Better Scarlet / Core Black / Bright Red
 11,73,Orbit Grey / Core Black / Crystal White
@@ -622,15 +622,15 @@ colorway_id,shoe_id,colorway
 8,75,"""Self Reflection"""
 9,75,"""White Light Blue"""
 1,76,White / Black
-2,76,Lemon Ice / Metallic Gold / Red
-3,76,"""Bruce Lee Fire"""
-4,76,White / Red
-5,76,Black / Jet Grey / Red
-6,76,"""Dub Nation"""
-7,76,"""Bruce Lee Wind"""
-8,76,Blue / Sky Blue
-9,76,White / Halo Grey
-10,76,White / Black
+2,76,White / Black
+3,76,Lemon Ice / Metallic Gold / Red
+4,76,"""Bruce Lee Fire"""
+5,76,White / Red
+6,76,Black / Jet Grey / Red
+7,76,"""Dub Nation"""
+8,76,"""Bruce Lee Wind"""
+9,76,Blue / Sky Blue
+10,76,White / Halo Grey
 11,76,White / Midnight Navy
 12,76,Blue / White
 1,77,Cone / Black / Brilliant Orange / Melon Tint
@@ -669,12 +669,12 @@ colorway_id,shoe_id,colorway
 14,79,Soft Yellow / Barely Volt / Light Laser Orange / Green Shock
 1,80,"""Stars & Stripes"""
 2,80,"""Ice Cream Special Box"""
-1,81,Wolf Grey / White / Wolf Grey
-2,81,"""Beyond the game"""
-3,81,Black / Photo Blue / Emerald Rise
-4,81,Black / Emerald Rise / Photo Blue
-5,81,Malachite / Lightning / Stadium Green / Black
-6,81,Luminous Green / Luminous Green / Black
+1,81,"""Beyond the game"""
+2,81,Black / Photo Blue / Emerald Rise
+3,81,Black / Emerald Rise / Photo Blue
+4,81,Malachite / Lightning / Stadium Green / Black
+5,81,Luminous Green / Luminous Green / Black
+6,81,Wolf Grey / White / Wolf Grey
 7,81,Brown / Green / Cargo Khaki
 8,81,White / Photon Dust
 9,81,Light Bone / Laser Orange / Ashen Slate / Coconut Milk
@@ -753,11 +753,11 @@ colorway_id,shoe_id,colorway
 13,86,White / Black
 14,86,White / Green Strike / Black
 15,86,White / Hyper Pink
-1,87,Club Navy / Intense Red / Golden Fog / Yellow Blaze / Silver Mist
-2,87,Lapis Lazuli / Cold Green / PUMA Black
-3,87,"""Sunset Glow"""
-4,87,Aquatic / Sparkling Green
-5,87,Pink Fruit
+1,87,Lapis Lazuli / Cold Green / PUMA Black
+2,87,"""Sunset Glow"""
+3,87,Aquatic / Sparkling Green
+4,87,Pink Fruit
+5,87,Club Navy / Intense Red / Golden Fog / Yellow Blaze / Silver Mist
 6,87,Elektro Blue / Sport Yellow
 7,87,For All Time Red / Bright Aqua
 8,87,Gizmo and Stripe
@@ -821,19 +821,19 @@ colorway_id,shoe_id,colorway
 4,92,"""Lemon Yellow"""
 5,92,Black
 6,92,"""Dreamer"""
-1,93,University Red / White
-2,93,"""Denim"""
-3,93,"""Zoo"""
-4,93,White / Total Orange / Black / Green Strike
-5,93,Black / Wolf Grey / Anthracite / Metallic Silver
-6,93,Stone Blue / University Red / Mystic Navy
-7,93,Black / Anthracite / Green Strike
-8,93,White / University Red / University Blue / University Gold
-9,93,White / Grey
-10,93,Black / University Red / Beach / Metallic Gold
-11,93,Pink / Pink Tint
-12,93,Black / White / Grey Fog
-13,93,Lagoon Pulse / Psychic Purple / White / Pink Blast
+1,93,Black / White / Grey Fog
+2,93,University Red / White
+3,93,Lagoon Pulse / Psychic Purple / White / Pink Blast
+4,93,Black / Anthracite / Green Strike
+5,93,"""Denim"""
+6,93,"""Zoo"""
+7,93,White / Total Orange / Black / Green Strike
+8,93,Black / Wolf Grey / Anthracite / Metallic Silver
+9,93,Stone Blue / University Red / Mystic Navy
+10,93,White / University Red / University Blue / University Gold
+11,93,White / Grey
+12,93,Black / University Red / Beach / Metallic Gold
+13,93,Pink / Pink Tint
 14,93,Medium Grey / White / Gunsmoke
 1,94,"""Energy"""
 2,94,"""Family Love"""
@@ -859,10 +859,10 @@ colorway_id,shoe_id,colorway
 6,97,Black / White / Metallic Gold
 7,97,White / Baltic Blue / Action Grape / Siren Red
 8,97,Barely Volt / Black / Volt / Hyper Pink
-1,98,University Red / University Red / White
-2,98,Game Royal / Game Royal / White
-3,98,White / White / Black
-4,98,Black / Black / White
+1,98,White / White / Black
+2,98,Black / Black / White
+3,98,University Red / University Red / White
+4,98,Game Royal / Game Royal / White
 5,98,Midnight Navy / Light Laser Orange
 6,98,"""USA"""
 7,98,White / Turbo Green / University Red / Black
@@ -911,8 +911,8 @@ colorway_id,shoe_id,colorway
 7,104,Wonder Beige / Carbon / Wonder White
 8,104,Metal Grey / Carbon / Better Scarlet
 9,104,Dash Grey / Metal Grey / Bright Blue
-1,105,Red / Blue / Black / Purple
-2,105,Persian Violet / Imperial Purple / Glacier Ice / White
+1,105,Persian Violet / Imperial Purple / Glacier Ice / White
+2,105,Red / Blue / Black / Purple
 3,105,Dusty Cactus / Midnight Navy / Fierce Pink / Green Strike
 4,105,Black / University Red / Metallic Gold
 5,105,White / Black / Gold
@@ -921,8 +921,8 @@ colorway_id,shoe_id,colorway
 8,105,Armory Navy / Sail / Metallic Silver / Light Silver
 9,105,White / University Red / Metallic Silver / Black
 10,105,Black / Tan / Olive
-11,105,University Gold / Team Crimson / Light Bone
-12,105,Black / Medium Soft Pink / White
+11,105,Black / Medium Soft Pink / White
+12,105,University Gold / Team Crimson / Light Bone
 13,105,Black / Wolf Grey / White / Light Bone
 14,105,Red / Black / Grey / Black
 15,105,Geode Teal / Melon Tint / Stadium Green / Campfire Orange
@@ -1292,9 +1292,9 @@ colorway_id,shoe_id,colorway
 5,138,Light Orewood Brown / Crimson Bliss / Black
 6,138,White / Metallic / Silver
 7,138,Black / White / Metallic Gold
-1,139,Black / Halo Gray / White
-2,139,White / Stream / Metallic Silver
-3,139,Sandstorm / Halo Gray
+1,139,White / Stream / Metallic Silver
+2,139,Sandstorm / Halo Gray
+3,139,Black / Halo Gray / White
 4,139,Jet Gray / Black
 5,139,Retro Pink / White
 6,139,Mod Gray / Steel
@@ -1708,11 +1708,11 @@ colorway_id,shoe_id,colorway
 6,174,Black
 7,174,Royal / Royal / Taxi
 1,175,"""Panda"""
-2,175,Summit White / Picante Red / Football Grey / Metallic Silver
-3,175,Glacier Blue / White / Photon Dust / Metallic Silver
-4,175,Black / Black / Alabaster
-5,175,White / Black / Black
-6,175,Photon Dust / Light Crimson / White / Black
+2,175,Black / University Red / Iron Grey / White
+3,175,White / Black / Black
+4,175,Photon Dust / Light Crimson / White / Black
+5,175,Photon Dust / Pink Blast / Dynamic Turquoise / White
+6,175,Summit White / Picante Red / Football Grey / Metallic Silver
 7,175,Barely Green / Washed Coral / Dusty Cactus / Black
 8,175,Sail / Light Lemon Twist / White / Smoke Grey
 9,175,Light Smoke Grey / Dark Grey / Photon Dust
@@ -1720,24 +1720,24 @@ colorway_id,shoe_id,colorway
 11,175,White / Summit White / Anthracite / Black
 12,175,Oil Green / Spring Green / Light Lemon Twist / Sail
 13,175,White / Sport Red / Obsidian
-14,175,Black / University Red / Iron Grey / White
-15,175,Light Wild Mango / Hot Fuchsia / Plum Dust / White
-16,175,Sea Glass / Olive Aura / Light Wild Mango / Oil Green
-17,175,Photon Dust / Pink Blast / Dynamic Turquoise / White
-18,175,Black / Barely Volt / Iron Grey
-19,175,Coconut Milk / Mineral / Light Orewood Brown / Jade Ice
-20,175,Black / Sapphire / White / Fusion Red
-21,175,Violet / Crimson
-22,175,Pure Platinum / Regal Pink / Cool Grey / Pink Blast
-23,175,Sport Red / Blue Void / White
-24,175,"""Sabrina Ionescu"""
-25,175,White / Bright Crimson / Pink Blast / Black
-26,175,"""Ghost"""
-27,175,Black / Hyper Crimson / Vapor Green / Ghost
-28,175,White / Laser Blue / Grey Fog / Black
-29,175,"""Grinch"""
-30,175,Blue Void / Siren Red / Fierce Purple / Green Strike
-31,175,Volt / Barely Volt / Anthracite
+14,175,Light Wild Mango / Hot Fuchsia / Plum Dust / White
+15,175,Sea Glass / Olive Aura / Light Wild Mango / Oil Green
+16,175,Black / Barely Volt / Iron Grey
+17,175,Coconut Milk / Mineral / Light Orewood Brown / Jade Ice
+18,175,Black / Sapphire / White / Fusion Red
+19,175,Violet / Crimson
+20,175,Pure Platinum / Regal Pink / Cool Grey / Pink Blast
+21,175,Sport Red / Blue Void / White
+22,175,"""Sabrina Ionescu"""
+23,175,White / Bright Crimson / Pink Blast / Black
+24,175,"""Ghost"""
+25,175,Black / Hyper Crimson / Vapor Green / Ghost
+26,175,White / Laser Blue / Grey Fog / Black
+27,175,"""Grinch"""
+28,175,Blue Void / Siren Red / Fierce Purple / Green Strike
+29,175,Volt / Barely Volt / Anthracite
+30,175,Black / Black / Alabaster
+31,175,Glacier Blue / White / Photon Dust / Metallic Silver
 1,176,Carbon Green / Asparagus / Beach / Black
 2,176,Light Smoke Grey / Smoke Grey / Black / Total Orange
 3,176,White / Hyper Pink / Dark Beetroot / Metallic Silver
@@ -1756,7 +1756,7 @@ colorway_id,shoe_id,colorway
 16,176,Black / Bright Crimson / Amarillo / White
 17,176,"""Gen Zion"""
 18,176,Midnight Navy / White / Dk Obsidian
-1,177,Black / White / Gum Light Brown / Metallic Cool Grey
+1,177,Black / White / ​Gum Light Brown / Metallic Cool Grey
 2,177,Black / Anthracite / Wolf Grey / White
 3,177,Pure Platinum / Cool Grey / Total Orange / White
 4,177,Black / White / Bright Crimson / University Red
@@ -2161,7 +2161,7 @@ colorway_id,shoe_id,colorway
 9,208,Blue / Black
 10,208,Sodalite Blue / Blue Curacao
 11,208,Yellow / Black
-1,209,Black/  White / University Red
+1,209,Black/ ​ White / University Red
 2,209,Black / Metallic Dark Grey
 3,209,Black / Hyper Royal / Melon Tint / White
 4,209,White / Team Red / Midnight Navy / University Red
@@ -3663,7 +3663,7 @@ colorway_id,shoe_id,colorway
 1,348,Black / Blue
 2,348,Black / White
 3,348,Blue
-1,349,Neptune / Sable / Metallic Gold
+1,349,Neptune / Sable / Metallic Gold​
 2,349,Steel / Aluminum / Black
 3,349,Royal Blue / White / Yellow
 4,349,Systematic / White

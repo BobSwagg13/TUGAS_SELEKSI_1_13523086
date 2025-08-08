@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import re
 
 
 # Scraper to get all shoe links
@@ -20,8 +21,15 @@ if response.status_code == 200:
 
     shoes_links = [link for link in all_links if '/shoe-reviews/' in link]
 
-    # Only 18 pages of shoes
-    for i in range(2, 19):
+    # Get page count
+    page_count_text = soup.find('ul', class_ = 'pagination').get_text()
+    pattern = r"More(?P<page_count>\d.)"
+    match = re.search(pattern, page_count_text)
+    if match:
+        page_count = int(match.group('page_count'))
+
+    # Iterate to get every page for shoes
+    for i in range(2, page_count + 1):
         soup = BeautifulSoup(requests.get(f'https://www.thehoopsgeek.com/shoe-reviews/?pg={i}', headers=headers).text, 'html.parser')
         all_a_tags = soup.select('h2 a')
         all_links = ["https://www.thehoopsgeek.com" + tag['href'] for tag in all_a_tags if tag.has_attr('href')]

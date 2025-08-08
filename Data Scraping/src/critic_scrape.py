@@ -49,11 +49,11 @@ for url_obj in data:
     # Get name
     h1 = soup.find('h1', class_='thg_h1_size')
     name = h1.text.strip() if h1 else "Name not found"
-
-    result.append({
-        "critic_id": id_counter,
-        "name": name,
-    })
+    if name != "Name not found":
+        result.append({
+            "critic_id": id_counter,
+            "name": name,
+        })
 
     # Get Profile link
     if url_obj["is_expert"] == 1:

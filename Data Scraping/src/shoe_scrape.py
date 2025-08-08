@@ -86,12 +86,12 @@ try:
         print(id, shoe_name, price)
         result.append({
             "shoe_id": id,
-            "name": shoe_name if shoe_name else None,
-            "brand": brand if brand else None,
-            "player": player if player else None,
-            "release_date": sql_date_string if 'release_date' in locals() else None,
-            "description": description_text if 'description_text' in locals() else None,
-            "shoe_type": shoe_type if 'shoe_type' in locals() else None,
+            "name": shoe_name if shoe_name else "",
+            "brand": brand if brand else "",
+            "player": player if player else "",
+            "release_date": sql_date_string if 'release_date' in locals() else "",
+            "description": description_text if 'description_text' in locals() else "",
+            "shoe_type": shoe_type if 'shoe_type' in locals() else "",
             "retail_price": price if price else None,
         })
         id += 1

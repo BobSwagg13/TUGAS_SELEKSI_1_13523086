@@ -115,7 +115,7 @@ def get_reviews(index, type, result, shoe_id, critic_id, review_id):
                     "rating": rating,
                     "date": sql_date_string,
                     "type": type,
-                    "description": description if description != "User didn't add a summary." else None
+                    "description": description if description != "User didn't add a summary." else ""
                 })
                 review_id += 1
         review_div = review_div.find_next_sibling('div')
