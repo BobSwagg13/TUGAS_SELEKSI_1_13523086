@@ -513,7 +513,7 @@ Automated scheduling dapat dilakukan dengan bantuan dari **Windows Task Schedule
 
 ---
 
-- You can also run via Python directly:
+- Atau langsung melalui terminal:
 
 ```bash
 {Path menuju repo}\TUGAS_SELEKSI_1_13523086\venv\Scripts\python.exe -m invoke full-pipeline
