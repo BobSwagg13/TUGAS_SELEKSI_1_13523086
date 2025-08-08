@@ -333,7 +333,7 @@ DW_DB_PORT=5432
 ![ERD](Data%20Storing/design/ERD.drawio.png)
 
 **Diagram Relasional:**
-![Diagram Relasional](Data%20Storing/design/Relational_diagram.drawio.png)
+![Diagram Relasional](Data%20Storing/design/Relational_diagram.png)
 
 ---
 
